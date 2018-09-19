@@ -1,7 +1,28 @@
 # ListOfSimulationsForRenyiEntropy
 List of simulations by using Path Integral Ground State Monte Carlo for the estimation of Renyi entropy
 
-Simulations already done for Entropy vs beta 
-                              N = 2, 8, 16
+1. Simulations already done for Entropy vs beta using the following parameters - 
                               
-Simulations already done for Entropy vs g Factror for N = 2, 4, 8, 16, 32
+                              P = [4,8,12,16,20,24,28,32,36,40]
+                              tau = 0.005
+                              R = 10.05 Angstrom
+
+                              N = 2, g = [1.0, 2.0, 4.0, 6.0, 8.0]      completed                         
+                              N = 8, g = [1.0, 1.5, 2.0]                completed
+                              N = 16,g = [1.0, 1.3]                     running
+                              
+                                                           
+2. Simulations already done for Entropy vs g Factror for N = 2, 4, 8, 16, 32 using the following parameters - 
+                              
+                              P = [4,8,12,16,20,24,28,32,36,40]
+                              tau = 0.005
+                              R = 10.05 Angstrom
+                              
+                              N = 2, g = [0.5+i*0.1 for i in range(76)] completed                         
+                              N = 4, g = [0.5+i*0.1 for i in range(31)] completed
+                              N = 8, g = [0.5+i*0.1 for i in range(21)] running
+                              N = 16,g = [0.5+i*0.1 for i in range(11)] running
+                              N = 32,g = [0.5+i*0.1 for i in range(11)] running
+                              
+                              
+                              
