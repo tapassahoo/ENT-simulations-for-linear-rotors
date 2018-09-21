@@ -2,14 +2,15 @@
 List of simulations by using Path Integral Ground State Monte Carlo for the estimation of Renyi entropy for N number of rotors placed in a linear chain. The inteeraction potential is modelled by dipole - dipole interactions.
  
 1. Simulations are already done or running to get the Entropy vs beta. The following parameters has been used for the said simulations - 
-                              
+
                               	P    = [4,8,12,16,20,24,28,32,36,40]
                              	tau  = 0.005 Kelvin^(-1)
                              	R    = 10.05 Angstrom
-				# of Blocks = 20000
-				# of Pass   = 100
+								
+								# of Blocks = 20000
+								# of Pass   = 100
 
-				i)  N = 2, g = [1.0, 2.0, 4.0, 6.0, 8.0] completed                         
+								i)  N = 2, g = [1.0, 2.0, 4.0, 6.0, 8.0] completed                         
                               	ii) N = 8, g = [1.0, 1.5, 2.0]           completed
                               	iii)N = 16,g = [1.0, 1.3]                running
                               
