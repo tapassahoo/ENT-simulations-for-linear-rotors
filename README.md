@@ -15,7 +15,7 @@ List of simulations by using Path Integral Ground State Monte Carlo for the esti
 2. Simulations for the estimation of Renyi entropy vs g factror using the following parameters - 
                               
                               P = [4,8,12,16,20,24,28,32,36,40]
-                              tau = 0.005
+                              tau = 0.005 Kelvin^(-1)O(n<sup>2</sup>)
                               R = 10.05 Angstrom
                               
                               N = 2, g = [0.5+i*0.1 for i in range(76)] completed                         
