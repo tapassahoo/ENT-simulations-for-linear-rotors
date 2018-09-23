@@ -36,11 +36,11 @@ N.B.: Only P = 36 and 40 cases, jobs are automatically cancelled due to time lim
 				
 Note: For N = 32, jobs has been submitted for P = [4, 10, 20, 40] and P = 40 is running upto # of blocks 100000.
 
-For the case iv), P=40 will be completed very soon but p=60 will take almost one week more.
+For the case of iv), P=60 will take almost one/two weeks more.
 
-For the case v), P=20 will be completed by a week but p=40 will take more time.
+For the case of v), P=20 will be completed by a week but p=40 will take more time.
 
 
-During analysis, I have used three types of preskip values - 5000, 10000, 15000 and decided to finalize at 10000 all over the results.
+N.B.: During analysis, I have used three types of preskip values - 5000, 10000, 15000 and decided to finalize at 10000 all over the results.
 
 
