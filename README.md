@@ -28,9 +28,9 @@ For the case iii), the simulations upto 28 beads have been completed. During ana
                               	      
 		i)   N = 2, g = [0.5+i*0.1 for i in range(76)] completed                         
                 ii)  N = 4, g = [0.5+i*0.1 for i in range(31)] completed
-                iii) N = 8, g = [0.5+i*0.1 for i in range(16)] completed
-                iv)  N = 16,g = [0.5+i*0.1 for i in range(11)] running
-                v)   N = 32,g = [0.5+i*0.1 for i in range(11)] running      
+		iii) N = 8, g = [0.5+i*0.1 for i in range(16)] completed
+		iv)  N = 16,g = [0.5+i*0.1 for i in range(11)] running
+ 		v)   N = 32,g = [0.5+i*0.1 for i in range(11)] running      
 				
 Note: For N = 32, jobs has been submitted for P = [4, 10, 20, 40] and P = 40 is running upto # of blocks 100000.
 
