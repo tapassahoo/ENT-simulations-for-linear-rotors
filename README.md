@@ -20,8 +20,8 @@ For the case iii), the simulations upto 28 beads have been completed. During ana
 2. Simulations for the estimation of Renyi entropy vs g factror using the following parameters - 
 		
 		P    = [4, 10, 20, 40, 60]
-                beta = 0.2 Kelvin^(-1)
-                R    = 10.05 Angstrom
+		beta = 0.2 Kelvin^(-1)
+		R    = 10.05 Angstrom
                                 
 		# of Blocks = 20000
 		# of Pass   = 100
