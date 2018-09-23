@@ -13,7 +13,7 @@ List of simulations by using Path Integral Ground State Monte Carlo for the esti
 
 		i)  N = 2, g = [1.0, 2.0, 4.0, 6.0, 8.0] completed                         
 		ii) N = 8, g = [1.0, 1.5, 2.0]           completed
-		iii)N = 16,g = [1.0, 1.3]                running
+		iii)N = 16,g = [1.0, 1.3]                P = 36 and 40 are cancelled. 
                               
 For the case iii), the simulations upto 32 beads have been completed. 
 
