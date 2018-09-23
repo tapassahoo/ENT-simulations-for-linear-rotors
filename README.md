@@ -15,7 +15,9 @@ List of simulations by using Path Integral Ground State Monte Carlo for the esti
 		ii) N = 8, g = [1.0, 1.5, 2.0]           completed
 		iii)N = 16,g = [1.0, 1.3]                running
                               
-For the case iii), the simulations upto 28 beads have been completed. During analysis, I have used three types of preskip values - 5000, 10000, 15000 and decided to finalize at 10000 all over the results.  
+For the case iii), the simulations upto 32 beads have been completed. 
+
+N.B.: Only P = 36 and 40 cases, jobs are automatically cancelled due to time limit.  
                                                            
 2. Simulations for the estimation of Renyi entropy vs g factror using the following parameters - 
 		
@@ -37,5 +39,8 @@ Note: For N = 32, jobs has been submitted for P = [4, 10, 20, 40] and P = 40 is 
 For the case iv), P=40 will be completed very soon but p=60 will take almost one week more.
 
 For the case v), P=20 will be completed by a week but p=40 will take more time.
+
+
+During analysis, I have used three types of preskip values - 5000, 10000, 15000 and decided to finalize at 10000 all over the results.
 
 
