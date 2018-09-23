@@ -27,7 +27,7 @@ For the case iii), the simulations upto 28 beads have been completed. During ana
 		# of Pass   = 100
                               	      
 		i)   N = 2, g = [0.5+i*0.1 for i in range(76)] completed                         
-                ii)  N = 4, g = [0.5+i*0.1 for i in range(31)] completed
+		ii)  N = 4, g = [0.5+i*0.1 for i in range(31)] completed
 		iii) N = 8, g = [0.5+i*0.1 for i in range(16)] completed
 		iv)  N = 16,g = [0.5+i*0.1 for i in range(11)] running
  		v)   N = 32,g = [0.5+i*0.1 for i in range(11)] running      
