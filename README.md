@@ -3,16 +3,16 @@ List of simulations by using Path Integral Ground State Monte Carlo for the esti
  
 1. Simulations are already done or running to get the Entropy vs beta. The following parameters has been used for the said simulations - 
 
-                              	P    = [4,8,12,16,20,24,28,32,36,40]
-                             		tau  = 0.005 Kelvin^(-1)
-                             		R    = 10.05 Angstrom
+P    = [4,8,12,16,20,24,28,32,36,40]
+tau  = 0.005 Kelvin^(-1)
+R    = 10.05 Angstrom
 								
-																# of Blocks = 20000
-																# of Pass   = 100
+# of Blocks = 20000
+# of Pass   = 100
 
-																i)  N = 2, g = [1.0, 2.0, 4.0, 6.0, 8.0] completed                         
-                              	ii) N = 8, g = [1.0, 1.5, 2.0]           completed
-                              	iii)N = 16,g = [1.0, 1.3]                running
+i)  N = 2, g = [1.0, 2.0, 4.0, 6.0, 8.0] completed                         
+ii) N = 8, g = [1.0, 1.5, 2.0]           completed
+iii)N = 16,g = [1.0, 1.3]                running
                               
 For the case iii), the simulations upto 28 beads have been completed. During analysis, I have used three types of preskip values - 5000, 10000, 15000 and decided to finalize at 10000 all over the results.  
                                                            
