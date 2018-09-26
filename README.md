@@ -34,11 +34,6 @@ For the case of iv), P=60 will take almost one/two weeks more.
 
 For the case of v), p=40 will take more time.
 
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
-
-
 **During analysis, I have used three types of preskip values - 5000, 10000, 15000 and decided to finalize at 10000 all over the results.**
 
 
