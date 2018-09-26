@@ -11,9 +11,9 @@ List of simulations by using Path Integral Ground State Monte Carlo for the esti
 		# of Blocks = 20000
 		# of Pass   = 100
 
-[x] N = 2, g = [1.0, 2.0, 4.0, 6.0, 8.0] completed                         
-[] N = 8, g = [1.0, 1.5, 2.0]           completed
-[] N = 16,g = [1.0, 1.3]                P = 36 and 40 are cancelled. 
+- [x] N = 2, g = [1.0, 2.0, 4.0, 6.0, 8.0] completed                         
+- [x] N = 8, g = [1.0, 1.5, 2.0]           completed
+- [] N = 16,g = [1.0, 1.3]                P = 36 and 40 are cancelled. 
                               
 N.B.: Only P = 36 and 40 cases, jobs are automatically cancelled due to time limit.  
                                                            
