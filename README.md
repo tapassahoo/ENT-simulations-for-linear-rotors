@@ -1,4 +1,4 @@
-# List of simulations have been performed for the estimation of Renyi entropy
+# List of simulations performed for the estimation of Renyi entropy
 
 List of simulations by using Path Integral Ground State Monte Carlo for the estimation of Renyi entropy for N number of rotors placed in a linear chain. The inteeraction potential is modelled by dipole - dipole interactions. The following parameters has been used for all simulations -
  
