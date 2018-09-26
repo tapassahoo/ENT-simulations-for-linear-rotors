@@ -8,9 +8,7 @@ List of simulations by using Path Integral Ground State Monte Carlo for the esti
 		# of Blocks = 20000
 		# of Pass   = 100
 
-## Simulations are already done or running to get the Entropy vs beta. The following parameters has been used for the said simulations  
-		
-		tau  = 0.005 Kelvin^(-1)
+Simulations for the **Entropy vs beta** at **tau  = 0.005 Kelvin^(-1)**
 		
 - [x] Done             - N = 2, g = [1.0, 2.0, 4.0, 6.0, 8.0]
 - [x] Done             - N = 8, g = [1.0, 1.5, 2.0]
