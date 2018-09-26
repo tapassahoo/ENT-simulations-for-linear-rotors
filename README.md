@@ -18,7 +18,9 @@ _The list of beads P is_
 - [x] Done             - N = 8, g = [1.0, 1.5, 2.0]
 - [ ] Need to Resubmit - N = 16,g = [1.0, 1.3]   for P = 36 and 40 that are cancelled due to **low time limit. 
                               
-                                                          
+ 
+ 
+ 
 -  Simulations for the **Entropy vs tau** as well as **gFactor** at **beta  = 0.2 Kelvin^(-1)**	
 
 _The list of beads P is_
