@@ -8,7 +8,7 @@ List of simulations by using Path Integral Ground State Monte Carlo for the esti
 		# of Blocks = 20000
 		# of Pass   = 100
 
-1.Simulations for the **Entropy vs beta** at **tau  = 0.005 Kelvin^(-1)**
+-  Simulations for the **Entropy vs beta** at **tau  = 0.005 Kelvin^(-1)**
 
 _The list of beads P is_
 
@@ -19,7 +19,7 @@ _The list of beads P is_
 - [ ] Need to Resubmit - N = 16,g = [1.0, 1.3]   for P = 36 and 40 that are cancelled due to **low time limit. 
                               
                                                           
-2.Simulations for the **Entropy vs tau** as well as **gFactor** at **beta  = 0.2 Kelvin^(-1)**	
+-  Simulations for the **Entropy vs tau** as well as **gFactor** at **beta  = 0.2 Kelvin^(-1)**	
 
 _The list of beads P is_
 
@@ -31,7 +31,7 @@ _The list of beads P is_
 - [ ] Need to resubmit  - N = 16,g = [0.5+i*0.1 for i in range(11)] for P = 60 only.
 - [ ] Need to resubmit  - N = 32,g = [0.5+i*0.1 for i in range(11)]      
 				
-For N = 32, jobs has been submitted for P = [4, 10, 20, 40] and P = 40 is running upto # of blocks 100000. In the present situation, as P = 40 takes very very long time, we should submit jobs for P = [7, 15, 25, 30] also to get better extrapolated results.
+_For N = 32, jobs has been submitted for P = [4, 10, 20, 40] and P = 40 is running upto # of blocks 100000. In the present situation, as P = 40 takes very very long time, we should submit jobs for P = [7, 15, 25, 30] also to get better extrapolated results._
 
 **N.B.: During analysis, I have used three types of preskip values - 5000, 10000, 15000 and decided to finalize at 10000 all over the results.**
 
