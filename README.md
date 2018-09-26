@@ -34,7 +34,7 @@ N.B.: Only P = 36 and 40 cases, jobs are automatically cancelled due to time lim
 		iv)  N = 16,g = [0.5+i*0.1 for i in range(11)] running
  		v)   N = 32,g = [0.5+i*0.1 for i in range(11)] running      
 				
-** For N = 32, jobs has been submitted for P = [4, 10, 20, 40] and P = 40 is running upto # of blocks 100000. **
+**For N = 32, jobs has been submitted for P = [4, 10, 20, 40] and P = 40 is running upto # of blocks 100000.**
 
 For the case of iv), P=60 will take almost one/two weeks more.
 
