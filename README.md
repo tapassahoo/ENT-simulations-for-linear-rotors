@@ -14,12 +14,9 @@ Simulations for the **Entropy vs beta** at **tau  = 0.005 Kelvin^(-1)**
 - [x] Done             - N = 8, g = [1.0, 1.5, 2.0]
 - [ ] Need to Resubmit - N = 16,g = [1.0, 1.3]   for P = 36 and 40 that are cancelled due to **low time limit. 
                               
-N.B.: Only P = 36 and 40 cases, jobs are automatically cancelled due to time limit.  
-                                                           
-## Simulations for the estimation of Renyi entropy vs g factror using the following parameters - 
-				
-		beta = 0.2 Kelvin^(-1)
-		                              	      
+                                                          
+Simulations for the **Entropy vs tau** as well as **gFactor** at **beta  = 0.2 Kelvin^(-1)**				
+    
 - [x] Done              - N = 2, g = [0.5+i*0.1 for i in range(76)]                      
 - [x] Done              - N = 4, g = [0.5+i*0.1 for i in range(31)] 
 - [x] Done              - N = 8, g = [0.5+i*0.1 for i in range(16)] 
