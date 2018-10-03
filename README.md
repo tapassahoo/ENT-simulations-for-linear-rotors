@@ -9,7 +9,7 @@ R    = 10.05 Angstrom
 # of Pass   = 100
 ```
 
-- :white_check_mark: Simulations for the **Entropy vs beta** 
+- :bulb: Simulations for the **Entropy vs beta** 
 
   - At **tau  = 0.005 Kelvin^(-1)**
   
@@ -37,7 +37,7 @@ R    = 10.05 Angstrom
     - [ ]                  - N = 32,g = [1.0, 1.1] 
                      
   
--  :white_check_mark: Simulations for the **Entropy vs tau** as well as **gFactor**
+-  :bulb: Simulations for the **Entropy vs tau** as well as **gFactor**
    
    - at **beta  = 0.2 Kelvin^(-1)**	
 
@@ -47,11 +47,11 @@ R    = 10.05 Angstrom
      P    = [5, 11, 21, 41, 61]  
      ```
      
-     - [x] Done              - N = 2, g = [0.5+i*0.1 for i in range(76)]                      
-     - [x] Done              - N = 4, g = [0.5+i*0.1 for i in range(31)] 
-     - [x] Done              - N = 8, g = [0.5+i*0.1 for i in range(16)] 
-     - [ ]                   - N = 16,g = [0.5+i*0.1 for i in range(11)] 
-     - [ ]                   - N = 32,g = [0.5+i*0.1 for i in range(11)]      
+     - [x] :white_check_mark:               N = 2, g = [0.5+i*0.1 for i in range(76)]                      
+     - [x] :white_check_mark:               N = 4, g = [0.5+i*0.1 for i in range(31)] 
+     - [x] :white_check_mark:               N = 8, g = [0.5+i*0.1 for i in range(16)] 
+     - [ ]                                  N = 16,g = [0.5+i*0.1 for i in range(11)] 
+     - [ ]                                  N = 32,g = [0.5+i*0.1 for i in range(11)]      
 				
 _For N = 32, jobs has been submitted for P = [4, 10, 20, 40] and P = 40 is running upto # of blocks 100000. In the present situation, as P = 40 takes very very long time, we should submit jobs for P = [7, 15, 25, 30] also to get better extrapolated results._
 
@@ -65,7 +65,7 @@ _For N = 32, jobs has been submitted for P = [4, 10, 20, 40] and P = 40 is runni
      ```
      
      - [ ]  :+1:                 - N = 16,g = [0.5+i*0.1 for i in range(11)]               **Need to be run**
-     - [ ] :white_check_mark:                  - N = 32,g = [0.5+i*0.1 for i in range(11)]               **Submitted**    
+     - [ ] :white_check_mark:                  - N = 32,g = [0.5+i*0.1 for i in range(11)]  :+1:             **Submitted**    
 				
 
 **N.B.: Here I have analyzed MoRiBs data by skipping some amount of data by using preskip values: 0, 10000, 15000. Finally, I have decided to finalize it for preskip 10000 for all computations.**
