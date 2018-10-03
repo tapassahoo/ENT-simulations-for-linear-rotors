@@ -37,20 +37,22 @@ R    = 10.05 Angstrom
     - [ ]                  - N = 32,g = [1.0, 1.1] 
                      
   
--  Simulations for the **Entropy vs tau** as well as **gFactor** at **beta  = 0.2 Kelvin^(-1)**	
+-  Simulations for the **Entropy vs tau** as well as **gFactor**
+   
+   - at **beta  = 0.2 Kelvin^(-1)**	
 
-_The list of beads P is_
-
-		P    = [5, 11, 21, 41, 61] at a fixed beta = 0.25 Kelvin^(-1)   
-		
-- [x] Done              - N = 2, g = [0.5+i*0.1 for i in range(76)]                      
-- [x] Done              - N = 4, g = [0.5+i*0.1 for i in range(31)] 
-- [x] Done              - N = 8, g = [0.5+i*0.1 for i in range(16)] 
-- [ ] Need to resubmit  - N = 16,g = [0.5+i*0.1 for i in range(11)] for P = 60 only.
-- [ ] Need to resubmit  - N = 32,g = [0.5+i*0.1 for i in range(11)]      
+     _The list of beads P is_
+     
+     ```
+     P    = [5, 11, 21, 41, 61] at a fixed beta = 0.25 Kelvin^(-1)   
+     ```
+     
+     - [x] Done              - N = 2, g = [0.5+i*0.1 for i in range(76)]                      
+     - [x] Done              - N = 4, g = [0.5+i*0.1 for i in range(31)] 
+     - [x] Done              - N = 8, g = [0.5+i*0.1 for i in range(16)] 
+     - [ ]                   - N = 16,g = [0.5+i*0.1 for i in range(11)] 
+     - [ ]                   - N = 32,g = [0.5+i*0.1 for i in range(11)]      
 				
 _For N = 32, jobs has been submitted for P = [4, 10, 20, 40] and P = 40 is running upto # of blocks 100000. In the present situation, as P = 40 takes very very long time, we should submit jobs for P = [7, 15, 25, 30] also to get better extrapolated results._
 
 **N.B.: Here I have analyzed MoRiBs data by skipping some amount of data by using preskip values: 0, 10000, 15000. Finally, I have decided to finalize it for preskip 10000 for all computations.**
-
-
