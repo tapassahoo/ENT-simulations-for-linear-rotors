@@ -65,7 +65,7 @@ _For N = 32, jobs has been submitted for P = [4, 10, 20, 40] and P = 40 is runni
      ```
      
      - [ ]  :+1:                 - N = 16,g = [0.5+i*0.1 for i in range(11)]               **Need to be run**
-     - [ ] :+1:                  - N = 32,g = [0.5+i*0.1 for i in range(11)]               **Submitted**    
+     - [ ] :white_check_mark:                  - N = 32,g = [0.5+i*0.1 for i in range(11)]               **Submitted**    
 				
 
 **N.B.: Here I have analyzed MoRiBs data by skipping some amount of data by using preskip values: 0, 10000, 15000. Finally, I have decided to finalize it for preskip 10000 for all computations.**
