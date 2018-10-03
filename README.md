@@ -60,8 +60,8 @@ _For N = 32, jobs has been submitted for P = [4, 10, 20, 40] and P = 40 is runni
      _The list of beads P is_
      
      ```
-     P    = [11, 15, 21, 25, 31, 35, 41]    **for N = 16
-     P    = [11, 15, 21, 25]                **for N = 32
+     P    = [11, 15, 21, 25, 31, 35, 41]    **for N = 16**
+     P    = [11, 15, 21, 25]                **for N = 32**
      ```
      
      - [ ]                   - N = 16,g = [0.5+i*0.1 for i in range(11)]  **Need to be run**
