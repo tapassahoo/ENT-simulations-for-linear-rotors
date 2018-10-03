@@ -9,7 +9,7 @@ R    = 10.05 Angstrom
 # of Pass   = 100
 ```
 
-- Simulations for the **Entropy vs beta** 
+- :white_check_mark: Simulations for the **Entropy vs beta** 
 
   - At **tau  = 0.005 Kelvin^(-1)**
   
@@ -37,7 +37,7 @@ R    = 10.05 Angstrom
     - [ ]                  - N = 32,g = [1.0, 1.1] 
                      
   
--  Simulations for the **Entropy vs tau** as well as **gFactor**
+-  :white_check_mark: Simulations for the **Entropy vs tau** as well as **gFactor**
    
    - at **beta  = 0.2 Kelvin^(-1)**	
 
