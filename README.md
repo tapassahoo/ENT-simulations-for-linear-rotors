@@ -8,8 +8,10 @@ List of simulations by using Path Integral Ground State Monte Carlo for the esti
 		# of Blocks = 20000
 		# of Pass   = 100
 
--  Simulations for the **Entropy vs beta** at **tau  = 0.005 Kelvin^(-1)**
+- Simulations for the **Entropy vs beta** 
 
+  - At **tau  = 0.005 Kelvin^(-1)**
+  
 _The list of beads P is_
 
 		P    = [5, 9, 13, 17, 21, 25, 29, 33, 37, 41] at a fixed tau = 0.005 Kelvin^(-1)
@@ -17,6 +19,8 @@ _The list of beads P is_
 - [x] Done             - N = 2, g = [1.0, 2.0, 4.0, 6.0, 8.0]
 - [x] Done             - N = 8, g = [1.0, 1.5, 2.0]
 - [x] Done             - N = 16,g = [1.0, 1.3]   for P = 36 and 40 that are cancelled due to **low time limit. 
+
+
                               
   
 -  Simulations for the **Entropy vs tau** as well as **gFactor** at **beta  = 0.2 Kelvin^(-1)**	
