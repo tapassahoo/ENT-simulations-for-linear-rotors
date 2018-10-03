@@ -47,11 +47,11 @@ R    = 10.05 Angstrom
      P    = [5, 11, 21, 41, 61]  
      ```
      
-     - [x] :white_check_mark:               N = 2, g = [0.5+i*0.1 for i in range(76)]                      
-     - [x] :white_check_mark:               N = 4, g = [0.5+i*0.1 for i in range(31)] 
-     - [x] :white_check_mark:               N = 8, g = [0.5+i*0.1 for i in range(16)] 
-     - [ ]                                  N = 16,g = [0.5+i*0.1 for i in range(11)] 
-     - [ ]                                  N = 32,g = [0.5+i*0.1 for i in range(11)]      
+    - [x] N = 2, g = [0.5+i*0.1 for i in range(76)]                      
+    - [x] N = 4, g = [0.5+i*0.1 for i in range(31)] 
+    - [x] N = 8, g = [0.5+i*0.1 for i in range(16)] 
+    - [ ] N = 16,g = [0.5+i*0.1 for i in range(11)] 
+    - [ ] N = 32,g = [0.5+i*0.1 for i in range(11)]      
 				
 _For N = 32, jobs has been submitted for P = [4, 10, 20, 40] and P = 40 is running upto # of blocks 100000. In the present situation, as P = 40 takes very very long time, we should submit jobs for P = [7, 15, 25, 30] also to get better extrapolated results._
 
