@@ -1,12 +1,13 @@
 # List of simulations performed for the estimation of Renyi entropy
 
 List of simulations by using Path Integral Ground State Monte Carlo for the estimation of Renyi entropy for N number of rotors placed in a linear chain. The inteeraction potential is modelled by dipole - dipole interactions. The following parameters has been used for all simulations -
- 
- 		Rotational B constant = 20.561 wavenumber
-		R    = 10.05 Angstrom
+ ```
+Rotational B constant = 20.561 wavenumber
+R    = 10.05 Angstrom
 		
-		# of Blocks = 20000
-		# of Pass   = 100
+# of Blocks = 20000
+# of Pass   = 100
+```
 
 - Simulations for the **Entropy vs beta** 
 
@@ -50,6 +51,6 @@ _The list of beads P is_
 				
 _For N = 32, jobs has been submitted for P = [4, 10, 20, 40] and P = 40 is running upto # of blocks 100000. In the present situation, as P = 40 takes very very long time, we should submit jobs for P = [7, 15, 25, 30] also to get better extrapolated results._
 
-**N.B.: During analysis, I have used three types of preskip values - 5000, 10000, 15000 and decided to finalize at 10000 all over the results.**
+**N.B.: Here I have analyzed MoRiBs data by skipping some amount of data by using preskip values: 0, 10000, 15000. Finally, I have decided to finalize it for preskip 10000 for all computations.**
 
 
