@@ -19,9 +19,9 @@ R    = 10.05 Angstrom
     P    = [5, 9, 13, 17, 21, 25, 29, 33, 37, 41] 
     ```		
 		
-    - [x] :white_check_mark:               N = 2, g = [1.0, 2.0, 4.0, 6.0, 8.0]
-    - [x] :white_check_mark:               N = 8, g = [1.0, 1.5, 2.0]
-    - [x] :white_check_mark:               N = 16,g = [1.0, 1.3]  
+    - [x] N = 2, g = [1.0, 2.0, 4.0, 6.0, 8.0]
+    - [x] N = 8, g = [1.0, 1.5, 2.0]
+    - [x] N = 16,g = [1.0, 1.3]  
 
   - At **tau  = 0.01 Kelvin^(-1)**
   
@@ -31,10 +31,10 @@ R    = 10.05 Angstrom
     P    = [5, 7, 9, 11, 13, 15, 17, 19, 21] 
     ```		
 		
-    - [ ]                  - N = 2, g = [1.0, 2.0, 4.0, 6.0, 8.0]
-    - [ ]                  - N = 8, g = [1.0, 1.5, 2.0]
-    - [ ]                  - N = 16,g = [1.0, 1.3] 
-    - [ ]                  - N = 32,g = [1.0, 1.1] 
+    - [ ] N = 2, g = [1.0, 2.0, 4.0, 6.0, 8.0]
+    - [ ] N = 8, g = [1.0, 1.5, 2.0]
+    - [ ] N = 16,g = [1.0, 1.3] 
+    - [ ] N = 32,g = [1.0, 1.1] 
                      
   
 -  :bulb: Simulations for the **Entropy vs tau** as well as **gFactor**
@@ -64,8 +64,8 @@ _For N = 32, jobs has been submitted for P = [4, 10, 20, 40] and P = 40 is runni
      P    = [11, 15, 21, 25]                for N = 32
      ```
      
-     - [ ]                               N = 16,g = [0.5+i*0.1 for i in range(11)]               **Need to be run**
-     - [ ]                               N = 32,g = [0.5+i*0.1 for i in range(11)]  :+1:         **Submitted**    
+     - [ ] N = 16,g = [0.5+i*0.1 for i in range(11)]               **Need to be run**
+     - [ ] N = 32,g = [0.5+i*0.1 for i in range(11)]  :+1:         **Submitted**    
 				
 
 **N.B.: Here I have analyzed MoRiBs data by skipping some amount of data by using preskip values: 0, 10000, 15000. Finally, I have decided to finalize it for preskip 10000 for all computations.**
