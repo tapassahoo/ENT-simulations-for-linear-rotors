@@ -80,6 +80,20 @@ R    = 10.05 Angstrom
      
      - [ ] N = 16,g = [0.5+i*0.1 for i in range(9)]               **Need to be run**
      - [ ] N = 32,g = [0.5+i*0.1 for i in range(7)]  :+1:         **Submitted**    
-				
+     
+     
+-  :bulb: Simulations for the **Entropy vs tau** as well as **gFactor** for ``BROKEN PATH''
+   
+   - at **beta  = 0.2 Kelvin^(-1)**	
+
+     _The list of beads P is_
+     
+      ```
+      P    = [5, 11, 21, 41, 61]  
+      ```
+     
+     - [x] N = 2, g = [0.5+i*0.1 for i in range(76)]                      
+     - [ ] N = 8, g = [0.5+i*0.1 for i in range(16)] 
+     			
 
 **N.B.: Here I have analyzed MoRiBs data by skipping some amount of data by using preskip values: 0, 10000, 15000. Finally, I have decided to finalize it for preskip 10000 for all computations.**
