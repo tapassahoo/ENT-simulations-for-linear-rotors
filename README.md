@@ -48,15 +48,27 @@ R    = 10.05 Angstrom
      - [x] N = 2, g = [0.5+i*0.1 for i in range(76)]                      
      - [x] N = 4, g = [0.5+i*0.1 for i in range(31)] 
      - [x] N = 8, g = [0.5+i*0.1 for i in range(16)] 
-     - [ ] N = 16,g = [0.5+i*0.1 for i in range(11)] 
+     - [ ] N = 16,g = [0.5+i*0.1 for i in range(11)]  **Running**
 				
-_For N = 32, jobs has been submitted for_
+     _For N = 32, jobs has been submitted for_
+     
       ```
-      P    = [5, 11, 21, 41, 61]  
+      P    = [5, 11, 15, 21, 25, 31]  
       ```
 
-     - [ ] N = 32,g = [0.5+i*0.1 for i in range(11)]  
-
+     - [ ] N = 32,g = [0.5+i*0.1 for i in range(11)]  **Running**
+     
+     _The list of beads P is_
+     
+      ```
+      P    = [15, 25, 31, 35, 41, 45, 51, 55]  
+      ```
+     
+     - [ ] N = 2, g = [0.5+i*0.1 for i in range(76)]  **Need to submit**                    
+     - [ ] N = 4, g = [0.5+i*0.1 for i in range(31)]  **Need to submit**
+     - [ ] N = 8, g = [0.5+i*0.1 for i in range(16)]  **Need to submit**
+     - [ ] N = 16,g = [0.5+i*0.1 for i in range(11)]  **Need to submit**
+				
    - at **beta  = 0.3 Kelvin^(-1)**	
 
      _The list of beads P is_
