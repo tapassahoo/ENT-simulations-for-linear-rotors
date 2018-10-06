@@ -69,7 +69,7 @@ R    = 10.05 Angstrom
      - [ ] N = 8, g = [0.5+i*0.1 for i in range(16)]  **Need to submit**
      - [ ] N = 16,g = [0.5+i*0.1 for i in range(11)]  **Need to submit**
      
-  - at **beta  = 0.25 Kelvin^(-1)**	
+   - at **beta  = 0.25 Kelvin^(-1)**	
 
      _The list of beads P is_
      
@@ -82,7 +82,7 @@ R    = 10.05 Angstrom
      - [ ] N = 32,g = [0.5+i*0.1 for i in range(7)]  :+1:         **To be Submitted**    
           
 				
-   - at **beta  = 0.3 Kelvin^(-1)**	
+    - at **beta  = 0.3 Kelvin^(-1)**	
 
      _The list of beads P is_
      
