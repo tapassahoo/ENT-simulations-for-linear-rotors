@@ -48,7 +48,7 @@ R    = 10.05 Angstrom
      - [x] N = 2, g = [0.5+i*0.1 for i in range(76)]                      
      - [x] N = 4, g = [0.5+i*0.1 for i in range(31)] 
      - [x] N = 8, g = [0.5+i*0.1 for i in range(16)] 
-     - [ ] N = 16,g = [0.5+i*0.1 for i in range(11)]  **Running**
+     - [x] N = 16,g = [0.5+i*0.1 for i in range(11)]
 				
      _For N = 32, jobs has been submitted for_
      
