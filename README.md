@@ -32,7 +32,7 @@ R    = 10.05 Angstrom
     ```		
 
     - [ ] N = 16,g = [1.0, 1.3]              **Need to submit**
-    - [ ] N = 32,g = [1.0, 1.1] :+1:         **Submitted**  
+    - [ ] N = 32,g = [1.0, 1.1] :+1:         **Submitted**  Need to resubmit for P = [16, 18, 20]
                      
   
 -  :bulb: Simulations for the **Entropy vs tau** as well as **gFactor**
