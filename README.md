@@ -84,15 +84,15 @@ R    = 10.05 Angstrom
 				
     - at **beta  = 0.3 Kelvin^(-1)**	
 
-     _The list of beads P is_
+      _The list of beads P is_
      
-     ```
-     P    = [11, 15, 21, 25, 31, 35, 41]    for N = 16 
-     P    = [11, 15, 21, 25]                for N = 32
-     ```
+      ```
+      P    = [11, 15, 21, 25, 31, 35, 41]    for N = 16 
+      P    = [11, 15, 21, 25]                for N = 32
+      ```
      
-     - [ ] N = 16,g = [0.5+i*0.1 for i in range(9)]  :+1:         **Submitted**
-     - [ ] N = 32,g = [0.5+i*0.1 for i in range(7)]  :+1:         **Submitted**    
+      - [ ] N = 16,g = [0.5+i*0.1 for i in range(9)]  :+1:         **Submitted**
+      - [ ] N = 32,g = [0.5+i*0.1 for i in range(7)]  :+1:         **Submitted**    
      
      
 -  :bulb: Simulations for the **Entropy vs tau** as well as **gFactor** for ``BROKEN PATH''
