@@ -56,7 +56,7 @@ R    = 10.05 Angstrom
       P    = [5, 11, 15, 21, 25, 31]  
       ```
 
-     - [ ] N = 32,g = [0.5+i*0.1 for i in range(11)]  **Running in Graham** Need to resubmit P = [25, 31]
+     - [ ] N = 32,g = [0.5+i*0.1 for i in range(11)] :+1: **Running in Graham** Need to resubmit P = [25, 31]
      
      _The list of beads P is_
      
