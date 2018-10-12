@@ -92,7 +92,7 @@ R    = 10.05 Angstrom
       ```
      
       - [ ] N = 16,g = [0.5+i*0.1 for i in range(9)]  :+1:         **Submitted**
-      - [ ] N = 32,g = [0.5+i*0.1 for i in range(7)]  :+1:         **Submitted**    
+      - [ ] N = 32,g = [0.7+i*0.1 for i in range(5)]  :+1:         **Running in Graham** for P = [21, 25]    
      
      
 -  :bulb: Simulations for the **Entropy vs tau** as well as **gFactor** for ``BROKEN PATH''
