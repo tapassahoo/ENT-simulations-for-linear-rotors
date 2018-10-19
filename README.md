@@ -119,7 +119,7 @@ R    = 10.05 Angstrom
       P    = [11, 15, 21, 25, 31, 35, 41, 45, 51, 55, 61]  
       ```
      
-     - [ ] N = 8, g = [0.5+i*0.1 for i in range(16)] **Need to submit**		
+     - [ ] N = 8, g = [0.5+i*0.1 for i in range(16)] :+1: **Running in Graham** for P = [11, 21, 41, 61] 		
      
    - at **beta  = 0.3 Kelvin^(-1)**	
 
