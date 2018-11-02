@@ -1,6 +1,6 @@
-# List of simulations performed for the estimation of Renyi entropy
+# List of simulations has been performed for the estimation of Renyi entropy of many linear rotors systems
 
-List of simulations by using Path Integral Ground State Monte Carlo for the estimation of Renyi entropy for N number of rotors placed in a linear chain. The inteeraction potential is modelled by dipole - dipole interactions. The following parameters has been used for all simulations -
+List of simulations by using Path Integral Ground State Monte Carlo for the estimation of Renyi entropy for N number of rotors placed in a linear chain. The interaction potential is modelled by dipole - dipole interactions. The following parameters has been used for all simulations -
  ```
 Rotational B constant = 20.561 wavenumber
 R    = 10.05 Angstrom
