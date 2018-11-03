@@ -31,8 +31,8 @@ R    = 10.05 Angstrom
     P    = [5, 7, 9, 11, 13, 15, 17, 19, 21] 
     ```		
 
-    - [ ] N = 16,g = [1.0, 1.3]              **Need to submit** 
-    - [ ] N = 32,g = [1.0, 1.1] :+1:         **Running in Graham**  Need to resubmit for P = [16, 18, 20] and g = 1.0, and for g = 1.1 and P = [10, 12, 14, 16, 18, 20]
+    - [ ] N = 16,g = [1.0, 1.3] :+1:         **Running in Graham** 
+    - [ ] N = 32,g = [1.0, 1.1] :+1:         **Running in Graham** Resubmitted for P = [11, 13, 15, 17, 19, 21]
                      
   
 -  :bulb: Simulations for the **Entropy vs tau** as well as **gFactor**
