@@ -32,7 +32,7 @@ R    = 10.05 Angstrom
     ```		
 
     - [ ] N = 16,g = [1.0, 1.3] :+1:         **Running in Graham** 
-    - [ ] N = 32,g = [1.0, 1.1] :+1:         **Running in Graham** Resubmitted for P = [11, 13, 15, 17, 19, 21]
+    - [ ] N = 32,g = [1.0, 1.1] :+1:         **Running in Graham** for P = [11, 13, 15, 17, 19, 21]
                      
   
 -  :bulb: Simulations for the **Entropy vs tau** as well as **gFactor**
