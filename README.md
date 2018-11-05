@@ -61,7 +61,7 @@ R    = 10.05 Angstrom
      _The list of beads P is_
      
       ```
-      P    = [15, 25, 31, 35, 41, 45, 51, 55]  
+      P    = [31, 51]  
       ```
      
      - [ ] N = 2, g = [0.5+i*0.1 for i in range(76)]  **Need to submit**                    
