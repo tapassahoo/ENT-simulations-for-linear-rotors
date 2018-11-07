@@ -42,13 +42,13 @@ R    = 10.05 Angstrom
      _The list of beads P is_
      
       ```
-      P    = [5, 11, 21, 41, 61]  
+      P    = [5, 11, 21, 31, 41, 51, 61]  
       ```
      
-     - [x] N = 2, g = [0.5+i*0.1 for i in range(76)]                      
-     - [x] N = 4, g = [0.5+i*0.1 for i in range(31)] 
-     - [x] N = 8, g = [0.5+i*0.1 for i in range(16)] 
-     - [x] N = 16,g = [0.5+i*0.1 for i in range(11)]
+     - [x] N = 2, g = [0.5+i*0.1 for i in range(76)] :+1:         **In Graham**                     
+     - [x] N = 4, g = [0.5+i*0.1 for i in range(31)] :+1:         **In Graham**
+     - [x] N = 8, g = [0.5+i*0.1 for i in range(16)] :+1:         **In Graham**
+     - [x] N = 16,g = [0.5+i*0.1 for i in range(11)] :+1:         **Running nn Graham**
 				
      _For N = 32, jobs has been submitted for_
      
@@ -58,16 +58,6 @@ R    = 10.05 Angstrom
 
      - [ ] N = 32,g = [0.5+i*0.1 for i in range(11)] :+1: **Running in Graham** Need to resubmit P = [25, 31]
      
-     _The list of beads P is_
-     
-      ```
-      P    = [31, 51]  
-      ```
-     
-     - [ ] N = 2, g = [0.5+i*0.1 for i in range(76)]  :+1: **Running in graham**                    
-     - [ ] N = 4, g = [0.5+i*0.1 for i in range(31)]  :+1: **Running in graham**
-     - [ ] N = 8, g = [0.5+i*0.1 for i in range(16)]  :+1: **Running in graham**
-     - [ ] N = 16,g = [0.5+i*0.1 for i in range(11)]  **Need to submit**
      
    - at **beta  = 0.25 Kelvin^(-1)**	
 
