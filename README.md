@@ -56,7 +56,7 @@ R    = 10.05 Angstrom
       P    = [11, 15, 21, 25, 31]  
       ```
 
-     - [ ] N = 32,g = [0.5+i*0.1 for i in range(11)] :+1: **Running in Graham** Need to resubmit P = [25, 31]
+     - [ ] N = 32,g = [0.5+i*0.1 for i in range(11)] :+1: **Running in Graham** for P = [31]
      
      
    - at **beta  = 0.25 Kelvin^(-1)**	
