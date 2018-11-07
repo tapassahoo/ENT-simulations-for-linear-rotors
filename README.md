@@ -48,7 +48,7 @@ R    = 10.05 Angstrom
      - [x] N = 2, g = [0.5+i*0.1 for i in range(76)] :+1:         **In Graham**                     
      - [x] N = 4, g = [0.5+i*0.1 for i in range(31)] :+1:         **In Graham**
      - [x] N = 8, g = [0.5+i*0.1 for i in range(16)] :+1:         **In Graham**
-     - [x] N = 16,g = [0.5+i*0.1 for i in range(11)] :+1:         **Running nn Graham**
+     - [x] N = 16,g = [0.5+i*0.1 for i in range(11)] :+1:         **Running in Graham**
 				
      _For N = 32, jobs has been submitted for_
      
