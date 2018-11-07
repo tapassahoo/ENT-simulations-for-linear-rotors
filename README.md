@@ -68,8 +68,8 @@ R    = 10.05 Angstrom
      P    = [11, 15, 21, 25]                for N = 32
      ```
      
-     - [x] N = 16,g = [0.5+i*0.1 for i in range(9)] 
-     - [x] N = 32,g = [0.5+i*0.1 for i in range(7)] 
+     - [x] N = 16,g = [0.5+i*0.1 for i in range(9)]  :+1:         **In Feynman**
+     - [x] N = 32,g = [0.5+i*0.1 for i in range(7)]  :+1:         **In Feynman**
           
 				
     - at **beta  = 0.3 Kelvin^(-1)**	
