@@ -34,6 +34,16 @@ R    = 10.05 Angstrom
     - [x] N = 16,g = [1.0, 1.3] :+1:         **In Graham** 
     - [x] N = 32,g = [1.0, 1.1] :+1:         **In Graham** 
                      
+  - At **tau  = 0.04 Kelvin^(-1)**
+  
+    _The list of beads P is_
+    
+    ```
+    P    = [5, 7, 9, 11, 13, 15, 17, 19, 21] 
+    ```		
+
+    - [x] N = 32,g = [1.0, 1.1] :+1:         **Running in Graham** 
+                     
   
 -  :bulb: Simulations for the **Entropy vs tau** as well as **gFactor**
    
