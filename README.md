@@ -21,7 +21,7 @@ R    = 10.05 Angstrom
 		
     - [x] N = 2, g = [1.0, 2.0, 4.0, 6.0, 8.0] :+1: **In Graham**
     - [x] N = 8, g = [1.0, 1.5, 2.0]           :+1: **In Graham**
-    - [x] N = 16,g = [1.0, 1.3]                :+1: **In Graham**
+    - [x] N = 16,g = [1.0, 1.3]                :+1: **In Graham** Resubmit a job for g = 1.3, P = 33 and A=3 
 
   - At **tau  = 0.02 Kelvin^(-1)**
   
