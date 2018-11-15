@@ -105,8 +105,8 @@ R    = 10.05 Angstrom
       P    = [11, 21, 31, 41, 51, 61]  
       ```
      
-     - [x] N = 2, g = [0.5+i*0.1 for i in range(76)] :+1:         ** In Feynman**
-     - [x] N = 4, g = [0.5+i*0.1 for i in range(31)] :+1:         ** In Graham**   
+     - [x] N = 2, g = [0.5+i*0.1 for i in range(76)] :+1:         **In Feynman**
+     - [x] N = 4, g = [0.5+i*0.1 for i in range(31)] :+1:         **In Graham**   
      - [ ] N = 8, g = [0.5+i*0.1 for i in range(16)] :+1:         **Running in Graham**
      			
 			
