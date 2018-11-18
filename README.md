@@ -95,8 +95,7 @@ R    = 10.05 Angstrom
       - [ ] N = 32, g = [0.7+i*0.1 for i in range(5)]  :+1:         **Running in Graham** for P = [21, 25]    
      
      
--  :bulb: Simulations for the **Entropy vs tau** as well as **gFactor** for ``BROKEN PATH''
-   
+-  :bulb: Simulations for the **Entropy vs tau** as well as **gFactor** for ``BROKEN PATH''   
    - at **beta  = 0.2 Kelvin^(-1)**	
 
      _The list of beads P is_
@@ -110,7 +109,7 @@ R    = 10.05 Angstrom
      - [ ] N = 8, g = [0.5+i*0.1 for i in range(16)] :+1:         **Running in Graham**
      			
 			
--  :bulb: Simulations for the **Entropy vs tau** as well as **gFactor** for ``No Ratio Trick''
+-  :bulb: Simulations for the **Entropy vs tau** as well as **gFactor** for **No Ratio Trick** using **SWAP+UNSWAP grand ensemble**
    
    - at **beta  = 0.2 Kelvin^(-1)**	
 
