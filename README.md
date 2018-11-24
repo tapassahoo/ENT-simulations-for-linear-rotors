@@ -21,7 +21,9 @@ R    = 10.05 Angstrom
 		
     - [x] N = 2, g = [1.0, 2.0, 4.0, 6.0, 8.0] :+1: **In Graham**
     - [x] N = 8, g = [1.0, 1.5, 2.0]           :+1: **In Graham**
+    ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-tau0.005Kinv-Blocks20000-Passes100-System8HF-ParticleA1-e0vsbeads-SWAPTOUNSWAP~
     - [x] N = 16,g = [1.0, 1.3]                :+1: **In Graham** 
+    ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-tau0.005Kinv-Blocks20000-Passes100-System16HF-ParticleA*-e0vsbeads-SWAPTOUNSWAP~
 
   - At **tau  = 0.02 Kelvin^(-1)**
   
