@@ -136,8 +136,13 @@ R    = 10.05 Angstrom
       ```
       P    = [11, 21, 31, 41, 51, 61]  
       ```
-     - [ ] N = 4, g = [0.5+i*0.1 for i in range(31)] :+1: **Running in Graham** for P = [41, 51, 61] # of Blocks = 30000
-     - [ ] N = 8, g = [0.5+i*0.1 for i in range(16)] :+1: **Running in Graham** for P = [41, 51, 61] # of Blocks = 30000		
+     - [x] N = 4, g = [0.5+i*0.1 for i in range(31)] :+1: **Running in Graham** for P = [41, 51, 61] # of Blocks = 30000
+     
+     ~/scratch/tapas/test-no-ratio-trick/ENT-NoRatio-Trick-RotDOFs-Rpt10.05Angstrom-gFactor3.5-beta0.2Kinv-Blocks30000-Passes100-System4HF-ParticleA2-e0vsbeads-SWAPTOUNSWAPPIMC/~
+     
+     - [ ] N = 8, g = [0.5+i*0.1 for i in range(16)] :+1: **Running in Graham** for P = [41, 51, 61] # of Blocks = 30000
+     
+     ~/scratch/tapas/test-no-ratio-trick/ENT-NoRatio-Trick-RotDOFs-Rpt10.05Angstrom-gFactor3.5-beta0.2Kinv-Blocks30000-Passes100-System4HF-ParticleA2-e0vsbeads-SWAPTOUNSWAPPIMC/~
      
    - at **beta  = 0.3 Kelvin^(-1)**	
 
