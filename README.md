@@ -42,8 +42,9 @@ R    = 10.05 Angstrom
     P    = [5, 7, 9, 11, 13, 15, 17, 19, 21] 
     ```		
 
-    - [ ] N = 32,g = [1.0, 1.1] :+1:         **Running in Graham** 
+    - [ ] N = 32,g = [1.0, 1.1] :+1:         **Resubmitted in Graham** 
                      
+    ~/scratch/tapas/test-ratio-trick/ENT-Ratio-Trick-RotDOFs-Rpt10.05Angstrom-gFactor1.0-tau0.04Kinv-Blocks20000-Passes100-System32HF-ParticleA*-e0vsbeads-SWAPTOUNSWAP~		     
   
 -  :bulb: Simulations for the **Entropy vs tau** as well as **gFactor**
    
