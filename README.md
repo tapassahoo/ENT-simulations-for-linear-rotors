@@ -144,7 +144,7 @@ R    = 10.05 Angstrom
      
      ~/scratch/tapas/test-no-ratio-trick/ENT-NoRatio-Trick-RotDOFs-Rpt10.05Angstrom-gFactor2.0-beta0.2Kinv-Blocks50000-Passes100-System8HF-ParticleA4-e0vsbeads-SWAPTOUNSWAPPIMC/~
      
-     - [ ] N = 16, g = [0.5+i*0.1 for i in range(11)] :+1: **Running in Graham** 
+     - [ ] N = 16, g = [0.5+i*0.1 for i in range(11)] :+1: **Running in Graham** for P = [31, 41, 51, 61]
      
      ~/scratch/tapas/test-no-ratio-trick/ENT-NoRatio-Trick-RotDOFs-Rpt10.05Angstrom-gFactor1.5-beta0.2Kinv-Blocks80000-Passes100-System16HF-ParticleA8-e0vsbeads-SWAPTOUNSWAPPIMC/~
      
