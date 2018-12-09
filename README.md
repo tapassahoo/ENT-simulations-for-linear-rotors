@@ -101,14 +101,22 @@ R    = 10.05 Angstrom
       _The list of beads P is_
      
       ```
-      P    = [11, 15, 21, 25, 31, 35, 41]    for N = 16 
       P    = [11, 15, 21, 25]                for N = 32
       ```
      
-      - [ ] N = 16, g = [0.5+i*0.1 for i in range(9)]               **Need to Submit**
       - [ ] N = 32, g = [0.7+i*0.1 for i in range(5)]  :+1:         **Running in Graham** for P = [21, 25]    
      
+    - at **beta  = 0.32 Kelvin^(-1)**	
+
+      _The list of beads P is_
      
+      ```
+      P    = [5, 11, 21, 31, 41, 51, 61]   
+      ```
+     
+      - [ ] N = 16, g = [0.5+i*0.1 for i in range(11)]  :+1:        **Running in Graham**
+      - [ ] N = 32, g = [0.7+i*0.1 for i in range(5)]  :+1:         **Need to submit in Graham**    
+          
 -  :bulb: Simulations for the **Entropy vs tau** as well as **gFactor** for ``BROKEN PATH''   
    - at **beta  = 0.2 Kelvin^(-1)**	
 
