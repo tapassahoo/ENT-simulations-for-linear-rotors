@@ -131,13 +131,13 @@ R    = 10.05 Angstrom
      
      ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-beta0.2Kinv-Blocks50000-Passes100-System4HF-ParticleA2-e0vsbeads-BROKENPATH~ 
      
-     Skipped data first 0, 30000 and 40000
+     Analysis complete: Skipped data first 0, 30000 and 40000
      
      - [x] N = 8, g = [0.5+i*0.1 for i in range(16)] :+1:         **In Graham**  
      
      ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-beta0.2Kinv-Blocks50000-Passes100-System4HF-ParticleA2-e0vsbeads-BROKENPATH~ 
      
-     Skipped data first 0 and 30000
+     Analysis coplete: Skipped data first 0 and 30000
      			
 			
 -  :bulb: Simulations for the **Entropy vs tau** as well as **gFactor** for **No Ratio Trick** using **SWAP+UNSWAP grand ensemble**
