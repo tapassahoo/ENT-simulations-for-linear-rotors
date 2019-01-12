@@ -23,13 +23,19 @@ R    = 10.05 Angstrom
     
     ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-tau0.005Kinv-Blocks20000-Passes100-System2HF-ParticleA*-e0vsbeads-SWAPTOUNSWAP~
     
+    Analysis complete: Skipped data first 0, 10000, 15000
+
     - [x] N = 8, g = [1.0, 1.5, 2.0]           :+1: **In Graham**
     
     ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-tau0.005Kinv-Blocks20000-Passes100-System8HF-ParticleA*-e0vsbeads-SWAPTOUNSWAP~
-    
+
+    Analysis complete: Skipped data first 0, 10000, 15000
+
     - [x] N = 16,g = [1.0, 1.3]                :+1: **In Graham** 
     
     ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-tau0.005Kinv-Blocks20000-Passes100-System16HF-ParticleA*-e0vsbeads-SWAPTOUNSWAP~
+
+    Analysis complete: Skipped data first 0, 10000, 15000
 
   - At **tau  = 0.02 Kelvin^(-1)**
   
