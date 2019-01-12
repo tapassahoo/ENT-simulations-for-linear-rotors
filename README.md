@@ -73,6 +73,10 @@ R    = 10.05 Angstrom
      - [x] N = 4, g = [0.5+i*0.1 for i in range(31)] :+1:         **In Graham**
      - [x] N = 8, g = [0.5+i*0.1 for i in range(16)] :+1:         **In Graham**
      - [x] N = 16,g = [0.5+i*0.1 for i in range(11)] :+1:         **Running in Graham**
+     
+     ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-beta0.2Kinv-Blocks20000-Passes100-System2HF-ParticleA1-e0vsbeads-SWAPTOUNSWAP~ 
+     
+     Analysis complete: Skipped data first 0, 15000
 				
      _For N = 32, jobs has been submitted for_
      
