@@ -139,8 +139,7 @@ R    = 10.05 Angstrom
       
       ~/scratch/tapas/test-ratio-trick/ENT-Ratio-Trick-RotDOFs-Rpt10.05Angstrom-gFactor1.0-beta0.3Kinv-Blocks20000-Passes100-System32HF-ParticleA1-e0vsbeads-SWAPTOUNSWAP~
       
-      Analysis complete: Skipped data first 0, 10000, 15000
-     
+          
     - at **beta  = 0.32 Kelvin^(-1)**	
 
       _The list of beads P is_
