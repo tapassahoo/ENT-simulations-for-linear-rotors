@@ -135,7 +135,11 @@ R    = 10.05 Angstrom
       P    = [11, 15, 21, 25]                for N = 32
       ```
      
-      - [ ] N = 32, g = [0.7+i*0.1 for i in range(5)]  :+1:         **Running in Graham** for P = [21, 25]    
+      - [ ] N = 32, g = [0.7+i*0.1 for i in range(5)]  :+1:         **Running in Graham** for P = [21, 25]   
+      
+      ~/scratch/tapas/test-ratio-trick/ENT-Ratio-Trick-RotDOFs-Rpt10.05Angstrom-gFactor1.0-beta0.3Kinv-Blocks20000-Passes100-System32HF-ParticleA1-e0vsbeads-SWAPTOUNSWAP~
+      
+      Analysis complete: Skipped data first 0, 10000, 15000
      
     - at **beta  = 0.32 Kelvin^(-1)**	
 
