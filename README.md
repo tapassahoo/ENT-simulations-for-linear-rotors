@@ -196,7 +196,7 @@ R    = 10.05 Angstrom
      
      ~/scratch/tapas/test-no-ratio-trick/ENT-NoRatio-Trick-RotDOFs-Rpt10.05Angstrom-gFactor1.5-beta0.2Kinv-Blocks80000-Passes100-System16HF-ParticleA8-e0vsbeads-SWAPTOUNSWAPPIMC/~
      
-     Analysis complete: Skipped data first 0, 10000, 20000
+     Analysis is incomplete: Skipped data first 0, 40000
      
    - at **beta  = 0.32 Kelvin^(-1)**	
 
