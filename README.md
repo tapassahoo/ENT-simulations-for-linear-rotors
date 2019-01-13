@@ -178,7 +178,7 @@ R    = 10.05 Angstrom
      _The list of beads P is_
      
       ```
-      P    = [11, 21, 31, 41, 51, 61]  
+      P    = [5, 11, 21, 31, 41, 51, 61]  
       ```
      - [x] N = 4, g = [0.5+i*0.1 for i in range(31)] :+1: **In Graham**
      
@@ -190,7 +190,7 @@ R    = 10.05 Angstrom
      
      ~/scratch/tapas/test-no-ratio-trick/ENT-NoRatio-Trick-RotDOFs-Rpt10.05Angstrom-gFactor2.0-beta0.2Kinv-Blocks50000-Passes100-System8HF-ParticleA4-e0vsbeads-SWAPTOUNSWAPPIMC/~
      
-     Analysis complete: Skipped data first 0, 10000, 20000
+     Analysis complete: Skipped data first 0, 20000
      
      - [ ] N = 16, g = [0.5+i*0.1 for i in range(11)] :+1: **Running in Graham** for P = [31, 41, 51, 61]
      
@@ -198,7 +198,7 @@ R    = 10.05 Angstrom
      
      Analysis complete: Skipped data first 0, 10000, 20000
      
-   - at **beta  = 0.3 Kelvin^(-1)**	
+   - at **beta  = 0.32 Kelvin^(-1)**	
 
      _The list of beads P is_
      
