@@ -54,6 +54,8 @@ R    = 10.05 Angstrom
     - [x] N = 32,g = [1.0, 1.1] :+1:         **In Graham** 
     
     ~/scratch/tapas/test-ratio-trick/ENT-Ratio-Trick-RotDOFs-Rpt10.05Angstrom-gFactor1.0-tau0.02Kinv-Blocks20000-Passes100-System32HF-ParticleA*-e0vsbeads-SWAPTOUNSWAP~
+    
+    Analysis complete: Skipped data first 0, 10000, 15000
                      
   - At **tau  = 0.04 Kelvin^(-1)**
   
