@@ -111,7 +111,7 @@ R    = 10.05 Angstrom
       P    = [11, 15, 21, 25, 31]  
       ```
 
-     - [ ] N = 32,g = [0.5+i*0.1 for i in range(11)] :+1: **Running in Graham** for P = [31]
+     - [ ] N = 32,g = [0.5+i*0.1 for i in range(11)] :+1: **Need to submit in Graham as soon as possible**
      
      
    - at **beta  = 0.25 Kelvin^(-1)**	
@@ -146,6 +146,12 @@ R    = 10.05 Angstrom
       ```
      
       - [ ] N = 16, g = [0.5+i*0.1 for i in range(11)]  :+1:        **Running in Graham**
+      
+      
+      ```
+      P    = [5, 11, 15, 21, 25, 31]   
+      ```
+      
       - [ ] N = 32, g = [0.7+i*0.1 for i in range(5)]  :+1:         **Need to submit in Graham**    
           
 -  :bulb: Simulations for the **Entropy vs tau** as well as **gFactor** for ``BROKEN PATH''   
