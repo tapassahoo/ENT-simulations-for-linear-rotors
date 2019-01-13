@@ -113,6 +113,10 @@ R    = 10.05 Angstrom
 
      - [ ] N = 32,g = [0.5+i*0.1 for i in range(11)] :+1: **Need to submit in Graham as soon as possible**
      
+     ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-beta0.2Kinv-Blocks20000-Passes100-System32HF-ParticleA1-e0vsbeads-SWAPTOUNSWAP~
+
+      Analysis incomplete: Skipped data first 0, 10000, 15000
+     
      
    - at **beta  = 0.25 Kelvin^(-1)**	
 
@@ -138,6 +142,8 @@ R    = 10.05 Angstrom
       - [ ] N = 32, g = [0.7+i*0.1 for i in range(5)]  :+1:         **Running in Graham** for P = [21, 25]   
       
       ~/scratch/tapas/test-ratio-trick/ENT-Ratio-Trick-RotDOFs-Rpt10.05Angstrom-gFactor1.0-beta0.3Kinv-Blocks20000-Passes100-System32HF-ParticleA1-e0vsbeads-SWAPTOUNSWAP~
+      
+      Analysis incomplete
       
           
     - at **beta  = 0.32 Kelvin^(-1)**	
