@@ -184,7 +184,7 @@ R    = 10.05 Angstrom
      
      ~/scratch/tapas/test-no-ratio-trick/ENT-NoRatio-Trick-RotDOFs-Rpt10.05Angstrom-gFactor3.5-beta0.2Kinv-Blocks30000-Passes100-System4HF-ParticleA2-e0vsbeads-SWAPTOUNSWAPPIMC/~
      
-     Analysis complete: Skipped data first 0, 10000, 20000
+     Analysis complete: Skipped data first 0, 20000
      
      - [ ] N = 8, g = [0.5+i*0.1 for i in range(16)] :+1: **In Graham**
      
