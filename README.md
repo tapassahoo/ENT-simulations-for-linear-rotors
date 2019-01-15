@@ -59,66 +59,66 @@ R    = 10.05 Angstrom
                      
    - At **tau  = 0.04 Kelvin^(-1)**
   
-    _The list of beads P is_
+   _The list of beads P is_
     
-    ```
-    P    = [5, 7, 9, 11, 13, 15, 17, 19, 21] 
-    ```		
+   ```
+   P    = [5, 7, 9, 11, 13, 15, 17, 19, 21] 
+   ```		
 
-    - [ ] N = 32,g = [1.0, 1.1] :+1:         **In Graham** 
+   - [ ] N = 32,g = [1.0, 1.1] :+1:         **In Graham** 
                      
-    ~/scratch/tapas/test-ratio-trick/ENT-Ratio-Trick-RotDOFs-Rpt10.05Angstrom-gFactor1.0-tau0.04Kinv-Blocks20000-Passes100-System32HF-ParticleA*-e0vsbeads-SWAPTOUNSWAP~
+   ~/scratch/tapas/test-ratio-trick/ENT-Ratio-Trick-RotDOFs-Rpt10.05Angstrom-gFactor1.0-tau0.04Kinv-Blocks20000-Passes100-System32HF-ParticleA*-e0vsbeads-SWAPTOUNSWAP~
     
-    Analysis complete: Skipped data first 0, 10000, 15000
+   Analysis complete: Skipped data first 0, 10000, 15000
   
 :two: Simulations for the **Entropy vs tau** as well as **gFactor**
    
    - at **beta  = 0.2 Kelvin^(-1)**	
 
-     _The list of beads P is_
+   _The list of beads P is_
      
-      ```
-      P    = [5, 11, 21, 31, 41, 51, 61]  
-      ```
+   ```
+   P    = [5, 11, 21, 31, 41, 51, 61]  
+   ```
      
-     - [x] N = 2, g = [0.5+i*0.1 for i in range(76)] :+1:         **In Graham**     
+   - [x] N = 2, g = [0.5+i*0.1 for i in range(76)] :+1:         **In Graham**     
      
-     ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-beta0.2Kinv-Blocks20000-Passes100-System2HF-ParticleA1-e0vsbeads-SWAPTOUNSWAP~ 
+   ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-beta0.2Kinv-Blocks20000-Passes100-System2HF-ParticleA1-e0vsbeads-SWAPTOUNSWAP~ 
      
-     Analysis complete: Skipped data first 0, 10000, 15000
+   Analysis complete: Skipped data first 0, 10000, 15000
      
-     - [x] N = 4, g = [0.5+i*0.1 for i in range(31)] :+1:         **In Graham**
+   - [x] N = 4, g = [0.5+i*0.1 for i in range(31)] :+1:         **In Graham**
      
-     ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-beta0.2Kinv-Blocks20000-Passes100-System4HF-ParticleA1-e0vsbeads-SWAPTOUNSWAP~ 
+   ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-beta0.2Kinv-Blocks20000-Passes100-System4HF-ParticleA1-e0vsbeads-SWAPTOUNSWAP~ 
      
-     Analysis complete: Skipped data first 0, 10000, 15000
+   Analysis complete: Skipped data first 0, 10000, 15000
      
-     - [x] N = 8, g = [0.5+i*0.1 for i in range(16)] :+1:         **In Graham**
+   - [x] N = 8, g = [0.5+i*0.1 for i in range(16)] :+1:         **In Graham**
      
-     ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-beta0.2Kinv-Blocks20000-Passes100-System8HF-ParticleA1-e0vsbeads-SWAPTOUNSWAP~ 
+   ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-beta0.2Kinv-Blocks20000-Passes100-System8HF-ParticleA1-e0vsbeads-SWAPTOUNSWAP~ 
      
-     Analysis complete: Skipped data first 0, 10000, 15000
+   Analysis complete: Skipped data first 0, 10000, 15000
      
-     - [x] N = 16,g = [0.5+i*0.1 for i in range(11)] :+1:         **In Graham**
+   - [x] N = 16,g = [0.5+i*0.1 for i in range(11)] :+1:         **In Graham**
      
-     ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-beta0.2Kinv-Blocks20000-Passes100-System16HF-ParticleA1-e0vsbeads-SWAPTOUNSWAP~ 
+   ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-beta0.2Kinv-Blocks20000-Passes100-System16HF-ParticleA1-e0vsbeads-SWAPTOUNSWAP~ 
      
-     Analysis complete: Skipped data first 0, 10000, 15000
+   Analysis complete: Skipped data first 0, 10000, 15000
 				
-     _For N = 32, jobs has been submitted for_
+   _For N = 32, jobs has been submitted for_
      
-      ```
-      P    = [11, 15, 21, 25, 31]  
-      ```
+   ```
+   P    = [11, 15, 21, 25, 31]  
+   ```
 
-     - [ ] N = 32,g = [0.5+i*0.05 for i in range(13)] :+1: **Running in Graham and be remembered to submit it for 31 beads and g = 0.9 to onwords**
+   - [ ] N = 32,g = [0.5+i*0.05 for i in range(13)] :+1: **Running in Graham and be remembered to submit it for 31 beads and g = 0.9 to onwords**
      
-     ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-beta0.2Kinv-Blocks20000-Passes100-System32HF-ParticleA1-e0vsbeads-SWAPTOUNSWAP~
+   ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-beta0.2Kinv-Blocks20000-Passes100-System32HF-ParticleA1-e0vsbeads-SWAPTOUNSWAP~
 
-      Analysis incomplete: Skipped data first 0, 10000, 15000
+   Analysis incomplete: Skipped data first 0, 10000, 15000
      
      
-    - at **beta  = 0.25 Kelvin^(-1)**	
+   - at **beta  = 0.25 Kelvin^(-1)**	
 
      _The list of beads P is_
      
