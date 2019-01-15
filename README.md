@@ -123,36 +123,36 @@ R    = 10.05 Angstrom
    _The list of beads P is_
      
    ```
-     P    = [11, 15, 21, 25, 31, 35, 41]    for N = 16 
-     P    = [11, 15, 21, 25]                for N = 32
-     ```
+   P    = [11, 15, 21, 25, 31, 35, 41]    for N = 16 
+   P    = [11, 15, 21, 25]                for N = 32
+   ```
      
-     - [x] N = 16,g = [0.5+i*0.1 for i in range(9)]  :+1:         **In Feynman**
-     - [x] N = 32,g = [0.5+i*0.1 for i in range(7)]  :+1:         **In Feynman**
+   - [x] N = 16,g = [0.5+i*0.1 for i in range(9)]  :+1:         **In Feynman**
+   - [x] N = 32,g = [0.5+i*0.1 for i in range(7)]  :+1:         **In Feynman**
           
 
-    - at **beta  = 0.32 Kelvin^(-1)**	
+   - at **beta  = 0.32 Kelvin^(-1)**	
 
-      _The list of beads P is_
+   _The list of beads P is_
      
-      ```
-      P    = [5, 11, 21, 31, 41, 51, 61]   
-      ```
+   ```
+   P    = [5, 11, 21, 31, 41, 51, 61]   
+   ```
      
-      - [ ] N = 16, g = [0.5+i*0.1 for i in range(11)]  :+1:        **Running in Graham**
+   - [ ] N = 16, g = [0.5+i*0.1 for i in range(11)]  :+1:        **Running in Graham**
       
       
-      ```
-      P    = [5, 11, 15, 21, 25, 31]   
-      ```
+   ```
+   P    = [5, 11, 15, 21, 25, 31]   
+   ```
       
-      - [ ] N = 32, g = [0.7+i*0.1 for i in range(5)]  :+1:         **Need to submit in Graham**    
+   - [ ] N = 32, g = [0.7+i*0.1 for i in range(5)]  :+1:         **Need to submit in Graham**    
           
 :three: Simulations for the **Entropy vs tau** as well as **gFactor** for ``BROKEN PATH''   
    
    - at **beta  = 0.2 Kelvin^(-1)**	
 
-     _The list of beads P is_
+   _The list of beads P is_
      
    ```
    P    = [11, 21, 31, 41, 51, 61]  
@@ -165,11 +165,11 @@ R    = 10.05 Angstrom
      
    Analysis complete: Skipped data first 0, 30000 and 40000
      
-     - [x] N = 8, g = [0.5+i*0.1 for i in range(16)] :+1:         **In Graham**  
+   - [x] N = 8, g = [0.5+i*0.1 for i in range(16)] :+1:         **In Graham**  
      
-     ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-beta0.2Kinv-Blocks50000-Passes100-System4HF-ParticleA2-e0vsbeads-BROKENPATH~ 
+   ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-beta0.2Kinv-Blocks50000-Passes100-System4HF-ParticleA2-e0vsbeads-BROKENPATH~ 
      
-     Analysis coplete: Skipped data first 0 and 30000
+   Analysis coplete: Skipped data first 0 and 30000
      			
 			
 :four: Simulations for the **Entropy vs tau** as well as **gFactor** for **No Ratio Trick** using **SWAP+UNSWAP grand ensemble**
