@@ -65,7 +65,7 @@ R    = 10.05 Angstrom
    P    = [5, 7, 9, 11, 13, 15, 17, 19, 21] 
    ```		
 
-   - [ ] N = 32,g = [1.0, 1.1] :+1:         **In Graham** 
+   - [x] N = 32,g = [1.0, 1.1] :+1:         **In Graham** 
                      
    ~/scratch/tapas/test-ratio-trick/ENT-Ratio-Trick-RotDOFs-Rpt10.05Angstrom-gFactor1.0-tau0.04Kinv-Blocks20000-Passes100-System32HF-ParticleA*-e0vsbeads-SWAPTOUNSWAP~
     
@@ -120,9 +120,9 @@ R    = 10.05 Angstrom
      
    - at **beta  = 0.25 Kelvin^(-1)**	
 
-     _The list of beads P is_
+   _The list of beads P is_
      
-     ```
+   ```
      P    = [11, 15, 21, 25, 31, 35, 41]    for N = 16 
      P    = [11, 15, 21, 25]                for N = 32
      ```
@@ -154,16 +154,16 @@ R    = 10.05 Angstrom
 
      _The list of beads P is_
      
-      ```
-      P    = [11, 21, 31, 41, 51, 61]  
-      ```
+   ```
+   P    = [11, 21, 31, 41, 51, 61]  
+   ```
      
-     - [x] N = 2, g = [0.5+i*0.1 for i in range(76)] :+1:         **In Feynman**
-     - [x] N = 4, g = [0.5+i*0.1 for i in range(31)] :+1:         **In Graham**   
+   - [x] N = 2, g = [0.5+i*0.1 for i in range(76)] :+1:         **In Feynman**
+   - [x] N = 4, g = [0.5+i*0.1 for i in range(31)] :+1:         **In Graham**   
      
-     ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-beta0.2Kinv-Blocks50000-Passes100-System4HF-ParticleA2-e0vsbeads-BROKENPATH~ 
+   ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-beta0.2Kinv-Blocks50000-Passes100-System4HF-ParticleA2-e0vsbeads-BROKENPATH~ 
      
-     Analysis complete: Skipped data first 0, 30000 and 40000
+   Analysis complete: Skipped data first 0, 30000 and 40000
      
      - [x] N = 8, g = [0.5+i*0.1 for i in range(16)] :+1:         **In Graham**  
      
