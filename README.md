@@ -11,7 +11,7 @@ R    = 10.05 Angstrom
 
 :one: Simulations for the **Entropy vs beta** 
 
-    - At **tau  = 0.005 Kelvin^(-1)**
+   - At **tau  = 0.005 Kelvin^(-1)**
   
     _The list of beads P is_
     
@@ -37,7 +37,7 @@ R    = 10.05 Angstrom
 
     Analysis complete: Skipped data first 0, 10000, 15000
 
-    - At **tau  = 0.02 Kelvin^(-1)**
+   - At **tau  = 0.02 Kelvin^(-1)**
   
     _The list of beads P is_
     
@@ -57,7 +57,7 @@ R    = 10.05 Angstrom
     
     Analysis complete: Skipped data first 0, 10000, 15000
                      
-    - At **tau  = 0.04 Kelvin^(-1)**
+   - At **tau  = 0.04 Kelvin^(-1)**
   
     _The list of beads P is_
     
@@ -73,7 +73,7 @@ R    = 10.05 Angstrom
   
 :two: Simulations for the **Entropy vs tau** as well as **gFactor**
    
-    - at **beta  = 0.2 Kelvin^(-1)**	
+   - at **beta  = 0.2 Kelvin^(-1)**	
 
      _The list of beads P is_
      
@@ -149,6 +149,7 @@ R    = 10.05 Angstrom
       - [ ] N = 32, g = [0.7+i*0.1 for i in range(5)]  :+1:         **Need to submit in Graham**    
           
 :three: Simulations for the **Entropy vs tau** as well as **gFactor** for ``BROKEN PATH''   
+   
    - at **beta  = 0.2 Kelvin^(-1)**	
 
      _The list of beads P is_
