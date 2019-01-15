@@ -111,7 +111,7 @@ R    = 10.05 Angstrom
       P    = [11, 15, 21, 25, 31]  
       ```
 
-     - [ ] N = 32,g = [0.5+i*0.05 for i in range(16)] :+1: **Running in Graham as soon as possible**
+     - [ ] N = 32,g = [0.5+i*0.05 for i in range(16)] :+1: **Running in Graham**
      
      ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-beta0.2Kinv-Blocks20000-Passes100-System32HF-ParticleA1-e0vsbeads-SWAPTOUNSWAP~
 
@@ -130,22 +130,7 @@ R    = 10.05 Angstrom
      - [x] N = 16,g = [0.5+i*0.1 for i in range(9)]  :+1:         **In Feynman**
      - [x] N = 32,g = [0.5+i*0.1 for i in range(7)]  :+1:         **In Feynman**
           
-				
-    - at **beta  = 0.3 Kelvin^(-1)**	
 
-      _The list of beads P is_
-     
-      ```
-      P    = [11, 15, 21, 25]                for N = 32
-      ```
-     
-      - [ ] N = 32, g = [0.7+i*0.1 for i in range(5)]  :+1:         **Running in Graham** for P = [21, 25]   
-      
-      ~/scratch/tapas/test-ratio-trick/ENT-Ratio-Trick-RotDOFs-Rpt10.05Angstrom-gFactor1.0-beta0.3Kinv-Blocks20000-Passes100-System32HF-ParticleA1-e0vsbeads-SWAPTOUNSWAP~
-      
-      Analysis incomplete
-      
-          
     - at **beta  = 0.32 Kelvin^(-1)**	
 
       _The list of beads P is_
