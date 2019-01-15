@@ -9,7 +9,7 @@ R    = 10.05 Angstrom
 # of Pass   = 100
 ```
 
-- :one: Simulations for the **Entropy vs beta** 
+:one: Simulations for the **Entropy vs beta** 
 
   - At **tau  = 0.005 Kelvin^(-1)**
   
