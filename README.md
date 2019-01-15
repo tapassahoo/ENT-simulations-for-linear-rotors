@@ -176,39 +176,39 @@ R    = 10.05 Angstrom
    
    - at **beta  = 0.2 Kelvin^(-1)**	
 
-     _The list of beads P is_
+   _The list of beads P is_
      
-      ```
-      P    = [5, 11, 21, 31, 41, 51, 61]  
-      ```
-     - [x] N = 4, g = [0.5+i*0.1 for i in range(31)] :+1: **In Graham**
+   ```
+   P    = [5, 11, 21, 31, 41, 51, 61]  
+   ```
+   - [x] N = 4, g = [0.5+i*0.1 for i in range(31)] :+1: **In Graham**
      
-     ~/scratch/tapas/test-no-ratio-trick/ENT-NoRatio-Trick-RotDOFs-Rpt10.05Angstrom-gFactor3.5-beta0.2Kinv-Blocks30000-Passes100-System4HF-ParticleA2-e0vsbeads-SWAPTOUNSWAPPIMC/~
+   ~/scratch/tapas/test-no-ratio-trick/ENT-NoRatio-Trick-RotDOFs-Rpt10.05Angstrom-gFactor3.5-beta0.2Kinv-Blocks30000-Passes100-System4HF-ParticleA2-e0vsbeads-SWAPTOUNSWAPPIMC/~
      
-     Analysis complete: Skipped data first 0, 20000
+   Analysis complete: Skipped data first 0, 20000
      
-     - [ ] N = 8, g = [0.5+i*0.1 for i in range(16)] :+1: **In Graham**
+   - [x] N = 8, g = [0.5+i*0.1 for i in range(16)] :+1: **In Graham**
      
-     ~/scratch/tapas/test-no-ratio-trick/ENT-NoRatio-Trick-RotDOFs-Rpt10.05Angstrom-gFactor2.0-beta0.2Kinv-Blocks50000-Passes100-System8HF-ParticleA4-e0vsbeads-SWAPTOUNSWAPPIMC/~
+   ~/scratch/tapas/test-no-ratio-trick/ENT-NoRatio-Trick-RotDOFs-Rpt10.05Angstrom-gFactor2.0-beta0.2Kinv-Blocks50000-Passes100-System8HF-ParticleA4-e0vsbeads-SWAPTOUNSWAPPIMC/~
      
-     Analysis complete: Skipped data first 0, 30000
+   Analysis complete: Skipped data first 0, 30000
      
-     - [ ] N = 16, g = [0.5+i*0.1 for i in range(11)] :+1: **Running in Graham** for P = [41, 51, 61]
+   - [ ] N = 16, g = [0.5+i*0.1 for i in range(11)] :+1: **Running in Graham** for P = [41, 51, 61]
      
-     ~/scratch/tapas/test-no-ratio-trick/ENT-NoRatio-Trick-RotDOFs-Rpt10.05Angstrom-gFactor1.5-beta0.2Kinv-Blocks80000-Passes100-System16HF-ParticleA8-e0vsbeads-SWAPTOUNSWAPPIMC/~
+   ~/scratch/tapas/test-no-ratio-trick/ENT-NoRatio-Trick-RotDOFs-Rpt10.05Angstrom-gFactor1.5-beta0.2Kinv-Blocks80000-Passes100-System16HF-ParticleA8-e0vsbeads-SWAPTOUNSWAPPIMC/~
      
-     Analysis is incomplete: Skipped data first 0, 40000
+   Analysis is incomplete: Skipped data first 0, 40000
      
    - at **beta  = 0.32 Kelvin^(-1)**	
 
-     _The list of beads P is_
+   _The list of beads P is_
      
-     ```
-     P    = [11, 15, 21, 25, 31, 35, 41]    for N = 16 
-     P    = [11, 15, 21, 25]                for N = 32
-     ```
+   ```
+   P    = [11, 15, 21, 25, 31, 35, 41]    for N = 16 
+   P    = [11, 15, 21, 25]                for N = 32
+   ```
      
-     - [ ] N = 16,g = [0.5+i*0.1 for i in range(9)]               **Need to be run**
-     - [ ] N = 32,g = [0.5+i*0.1 for i in range(7)]               **Need to be run**   
+   - [ ] N = 16,g = [0.5+i*0.1 for i in range(9)]               **Need to be run**
+   - [ ] N = 32,g = [0.5+i*0.1 for i in range(7)]               **Need to be run**   
 
 **N.B.: Here I have analyzed MoRiBs data by skipping some amount of data by using preskip values: 0, 10000, 15000. Finally, I have decided to finalize it for preskip 10000 for all computations.**
