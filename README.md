@@ -13,49 +13,49 @@ R    = 10.05 Angstrom
 
    - At **tau  = 0.005 Kelvin^(-1)**
   
-    _The list of beads P is_
+   _The list of beads P is_
     
-    ```
-    P    = [5, 9, 13, 17, 21, 25, 29, 33, 37, 41] 
-    ```		
+   ```
+   P    = [5, 9, 13, 17, 21, 25, 29, 33, 37, 41] 
+   ```		
 		
-    - [x] N = 2, g = [1.0, 2.0, 4.0, 6.0, 8.0] :+1: **In Graham**
+   - [x] N = 2, g = [1.0, 2.0, 4.0, 6.0, 8.0] :+1: **In Graham**
     
-    ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-tau0.005Kinv-Blocks20000-Passes100-System2HF-ParticleA*-e0vsbeads-SWAPTOUNSWAP~
+   ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-tau0.005Kinv-Blocks20000-Passes100-System2HF-ParticleA*-e0vsbeads-SWAPTOUNSWAP~
     
-    Analysis complete: Skipped data first 0, 10000, 15000
+   Analysis complete: Skipped data first 0, 10000, 15000
 
-    - [x] N = 8, g = [1.0, 1.5, 2.0]           :+1: **In Graham**
+   - [x] N = 8, g = [1.0, 1.5, 2.0]           :+1: **In Graham**
     
-    ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-tau0.005Kinv-Blocks20000-Passes100-System8HF-ParticleA*-e0vsbeads-SWAPTOUNSWAP~
+   ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-tau0.005Kinv-Blocks20000-Passes100-System8HF-ParticleA*-e0vsbeads-SWAPTOUNSWAP~
 
-    Analysis complete: Skipped data first 0, 10000, 15000
+   Analysis complete: Skipped data first 0, 10000, 15000
 
-    - [x] N = 16,g = [1.0, 1.3]                :+1: **In Graham** 
+   - [x] N = 16,g = [1.0, 1.3]                :+1: **In Graham** 
     
-    ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-tau0.005Kinv-Blocks20000-Passes100-System16HF-ParticleA*-e0vsbeads-SWAPTOUNSWAP~
+   ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-tau0.005Kinv-Blocks20000-Passes100-System16HF-ParticleA*-e0vsbeads-SWAPTOUNSWAP~
 
-    Analysis complete: Skipped data first 0, 10000, 15000
+   Analysis complete: Skipped data first 0, 10000, 15000
 
    - At **tau  = 0.02 Kelvin^(-1)**
   
-    _The list of beads P is_
+   _The list of beads P is_
     
-    ```
-    P    = [5, 7, 9, 11, 13, 15, 17, 19, 21] 
-    ```		
+   ```
+   P    = [5, 7, 9, 11, 13, 15, 17, 19, 21] 
+   ```		
 
-    - [x] N = 16,g = [1.0, 1.3] :+1:         **In Graham** 
+   - [x] N = 16,g = [1.0, 1.3] :+1:         **In Graham** 
     
-    ~/scratch/tapas/test-ratio-trick/ENT-Ratio-Trick-RotDOFs-Rpt10.05Angstrom-gFactor1.0-tau0.02Kinv-Blocks20000-Passes100-System16HF-ParticleA*-e0vsbeads-SWAPTOUNSWAP~
+   ~/scratch/tapas/test-ratio-trick/ENT-Ratio-Trick-RotDOFs-Rpt10.05Angstrom-gFactor1.0-tau0.02Kinv-Blocks20000-Passes100-System16HF-ParticleA*-e0vsbeads-SWAPTOUNSWAP~
     
-    Analysis complete: Skipped data first 0, 10000, 15000
+   Analysis complete: Skipped data first 0, 10000, 15000
     
-    - [x] N = 32,g = [1.0, 1.1] :+1:         **In Graham** 
+   - [x] N = 32,g = [1.0, 1.1] :+1:         **In Graham** 
     
-    ~/scratch/tapas/test-ratio-trick/ENT-Ratio-Trick-RotDOFs-Rpt10.05Angstrom-gFactor1.0-tau0.02Kinv-Blocks20000-Passes100-System32HF-ParticleA*-e0vsbeads-SWAPTOUNSWAP~
+   ~/scratch/tapas/test-ratio-trick/ENT-Ratio-Trick-RotDOFs-Rpt10.05Angstrom-gFactor1.0-tau0.02Kinv-Blocks20000-Passes100-System32HF-ParticleA*-e0vsbeads-SWAPTOUNSWAP~
     
-    Analysis complete: Skipped data first 0, 10000, 15000
+   Analysis complete: Skipped data first 0, 10000, 15000
                      
    - At **tau  = 0.04 Kelvin^(-1)**
   
