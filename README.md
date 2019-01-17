@@ -139,7 +139,7 @@ R    = 10.05 Angstrom
    P    = [5, 11, 21, 31, 41, 51, 61]   
    ```
      
-   - [ ] N = 16, g = [0.5+i*0.1 for i in range(11)]  :+1:        **Need to resubmit it in Graham**
+   - [ ] N = 16, g = [0.5+i*0.1 for i in range(11)]  :+1:        **Resubmitted in Graham  for P = [31, 41, 51, 61]**
    
    ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-beta0.32Kinv-Blocks20000-Passes100-System16HF-ParticleA1-e0vsbeads-SWAPTOUNSWAP~ 
       
