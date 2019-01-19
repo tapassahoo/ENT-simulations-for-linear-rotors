@@ -111,7 +111,7 @@ R    = 10.05 Angstrom
    P    = [5, 11, 15, 21, 25, 31]  
    ```
 
-   - [ ] N = 32,g = [0.5+i*0.05 for i in range(13)] :+1: **Running in Graham for P = [15, 21, 25, 31]**
+   - [ ] N = 32,g = [0.5+i*0.05 for i in range(13)] :+1: **Running in Graham for P = [21, 25, 31]**
      
    ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-beta0.2Kinv-Blocks20000-Passes100-System32HF-ParticleA1-e0vsbeads-SWAPTOUNSWAP~
 
