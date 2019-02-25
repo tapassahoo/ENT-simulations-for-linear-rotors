@@ -179,7 +179,7 @@ R    = 10.05 Angstrom
      
    - [x] N = 2, g = [0.5+i*0.1 for i in range(76)] :+1:         **In Graham**
    
-    ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-beta0.2Kinv-Blocks20000-Passes100-System2HF-ParticleA1-e0vsbeads-BROKENPATH~ 
+   ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-beta0.2Kinv-Blocks20000-Passes100-System2HF-ParticleA1-e0vsbeads-BROKENPATH~ 
      
    Analysis complete: Skipped data first 0, 10000 and 15000
    
