@@ -78,7 +78,7 @@ R    = 10.05 Angstrom
    _The list of beads P is_
      
    ```
-   P    = [5, 11, 21, 31, 41, 51, 61]  
+   P    = [5, 11, 15, 21, 25, 31, 35, 41, 45, 51, 55, 61]  
    ```
      
    - [x] N = 2, g = [0.5+i*0.1 for i in range(76)] :+1:         **In Graham**     
@@ -86,18 +86,36 @@ R    = 10.05 Angstrom
    ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-beta0.2Kinv-Blocks20000-Passes100-System2HF-ParticleA1-e0vsbeads-SWAPTOUNSWAP~ 
      
    Analysis complete: Skipped data first 0, 10000, 15000
+   
+   _The list of beads P is_
+     
+   ```
+   P    = [5, 11, 15, 21, 25, 31, 35, 41, 45, 51, 55, 61]  
+   ```
      
    - [x] N = 4, g = [0.5+i*0.1 for i in range(31)] :+1:         **In Graham**
      
    ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-beta0.2Kinv-Blocks20000-Passes100-System4HF-ParticleA1-e0vsbeads-SWAPTOUNSWAP~ 
      
    Analysis complete: Skipped data first 0, 10000, 15000
+   
+   _The list of beads P is_
      
+   ```
+   P    = [5, 11, 21, 31, 41, 51, 61]  
+   ```
+          
    - [x] N = 8, g = [0.5+i*0.1 for i in range(16)] :+1:         **In Graham**
      
    ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-beta0.2Kinv-Blocks20000-Passes100-System8HF-ParticleA1-e0vsbeads-SWAPTOUNSWAP~ 
      
    Analysis complete: Skipped data first 0, 10000, 15000
+   
+    _The list of beads P is_
+     
+   ```
+   P    = [5, 11, 21, 31, 41, 51, 61]  
+   ```
      
    - [x] N = 16,g = [0.5+i*0.1 for i in range(11)] :+1:         **In Graham**
      
