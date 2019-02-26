@@ -229,11 +229,11 @@ R    = 10.05 Angstrom
      
    Analysis complete: Skipped data first 0, 30000
      
-   - [x] N = 16, g = [0.5+i*0.1 for i in range(11)] :+1: **Running in Graham** for P = [41, 51, 61]
+   - [x] N = 16, g = [0.5+i*0.1 for i in range(11)] :+1: **In Graham**
      
    ~/scratch/tapas/test-no-ratio-trick/ENT-NoRatio-Trick-RotDOFs-Rpt10.05Angstrom-gFactor1.5-beta0.2Kinv-Blocks80000-Passes100-System16HF-ParticleA8-e0vsbeads-SWAPTOUNSWAPPIMC/~
      
-   Analysis is incomplete: Skipped data first 0, 40000
+   Analysis is complete: Skipped data first 0, 40000
      
    - at **beta  = 0.32 Kelvin^(-1)**	
 
