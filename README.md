@@ -111,7 +111,7 @@ R    = 10.05 Angstrom
      
    Analysis complete: Skipped data first 0, 10000, 15000
    
-    _The list of beads P is_
+   _The list of beads P is_
      
    ```
    P    = [5, 11, 21, 31, 41, 51, 61]  
