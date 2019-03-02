@@ -105,11 +105,11 @@ R    = 10.05 Angstrom
    P    = [5, 11, 21, 31, 41, 51, 61]  
    ```
           
-   - [x] N = 8, g = [0.5+i*0.1 for i in range(16)] :+1:         **In Graham**
+   - [x] N = 8, g = [0.5+i*0.1 for i in range(16)] :+1:         **Need to submit**
      
    ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-beta0.2Kinv-Blocks20000-Passes100-System8HF-ParticleA1-e0vsbeads-SWAPTOUNSWAP~ 
      
-   Analysis complete: Skipped data first 0, 10000, 15000
+   Analysis incomplete: Skipped data first 0, 10000, 15000
    
    _The list of beads P is_
      
@@ -129,7 +129,7 @@ R    = 10.05 Angstrom
    P    = [5, 11, 15, 21, 25, 31]  
    ```
 
-   - [ ] N = 32,g = [0.5+i*0.05 for i in range(13)] :+1: **Running in Graham for P = [25, 31]**
+   - [x] N = 32,g = [0.5+i*0.05 for i in range(15)] :+1: **In Graham**
      
    ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-beta0.2Kinv-Blocks20000-Passes100-System32HF-ParticleA1-e0vsbeads-SWAPTOUNSWAP~
 
@@ -165,7 +165,11 @@ R    = 10.05 Angstrom
    P    = [5, 11, 15, 21, 25, 31]   
    ```
       
-   - [ ] N = 32, g = [0.7+i*0.1 for i in range(5)]  :+1:         **Need to submit in Graham**    
+   - [ ] N = 32, g = [0.7+i*0.05 for i in range(11)]  :+1:         **Submitted in Graham**   
+   
+   ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-beta0.32Kinv-Blocks20000-Passes100-System32HF-ParticleA1-e0vsbeads-SWAPTOUNSWAP~ 
+   
+    Analysis incomplete: Skipped data first 0, 10000, 15000
           
 :three: Simulations for the **Entropy vs tau** as well as **gFactor** for ``BROKEN PATH''   
    
