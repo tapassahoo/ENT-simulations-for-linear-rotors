@@ -87,6 +87,12 @@ R    = 10.05 Angstrom
      
    Analysis complete: Skipped data first 0, 10000, 15000
    
+   - [x] N = 2, g = [9.0+i*1.0 for i in range(42)] :+1:         **Running in Graham**     
+     
+   ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-beta0.2Kinv-Blocks20000-Passes100-System2HF-ParticleA1-e0vsbeads-SWAPTOUNSWAP~ 
+     
+   Analysis incomplete: Skipped data first 0, 10000, 15000
+   
    _The list of beads P is_
      
    ```
@@ -186,6 +192,12 @@ R    = 10.05 Angstrom
    ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-beta0.2Kinv-Blocks20000-Passes100-System2HF-ParticleA1-e0vsbeads-BROKENPATH~ 
      
    Analysis complete: Skipped data first 0, 10000 and 15000
+   
+   - [x] N = 2, g = [9.0+i*1.0 for i in range(42)] :+1:         **Running in Graham**     
+     
+   ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-beta0.2Kinv-Blocks20000-Passes100-System2HF-ParticleA1-e0vsbeads-BROKENPATH~ 
+     
+   Analysis incomplete: Skipped data first 0, 10000, 15000
    
    _The list of beads P is_
      
