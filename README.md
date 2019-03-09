@@ -235,11 +235,11 @@ R    = 10.05 Angstrom
    P    = [5, 11, 15, 21, 25, 31, 35, 41, 45, 51, 55, 61]  
    ```
      
-   - [x] N = 8, g = [0.5+i*0.1 for i in range(16)] :+1:         **In Graham**  
+   - [ ] N = 8, g = [0.5+i*0.1 for i in range(16)] :+1:         **Running in Graham for P = [35, 45, 55]**  
      
    ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-beta0.2Kinv-Blocks50000-Passes100-System8HF-ParticleA4-e0vsbeads-BROKENPATH~ 
      
-   Analysis coplete: Skipped data first 0 and 30000
+   Analysis incoplete: Skipped data first 0 and 30000
      			
 			
 :four: Simulations for the **Entropy vs tau** as well as **gFactor** for **No Ratio Trick** using **SWAP+UNSWAP grand ensemble**
