@@ -251,7 +251,7 @@ R    = 10.05 Angstrom
      
    Analysis complete: Skipped data first 0, 20000
    
-   - [x] N = 4, g = [3.5+i*0.25 for i in range(11)] :+1: **Running in Graham**
+   - [x] N = 4, g = [3.5+i*0.25 for i in range(11)] :+1: **Running in Graham for P = [55, 61]**
      
    ~/scratch/tapas/test-no-ratio-trick/ENT-NoRatio-Trick-RotDOFs-Rpt10.05Angstrom-gFactor3.5-beta0.2Kinv-Blocks30000-Passes100-System4HF-ParticleA2-e0vsbeads-SWAPTOUNSWAPPIMC/~
      
