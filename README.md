@@ -205,7 +205,7 @@ R    = 10.05 Angstrom
      
    Analysis incomplete: Skipped data first 0, 30000, 40000, 45000
    
-   - [ ] N = 2, g = [21.0+i*1.0 for i in range(10)] :+1:         **Running in Graham for P = [45, 51, 55, 61]**     
+   - [ ] N = 2, g = [21.0+i*1.0 for i in range(10)] :+1:         **Running in Graham for P = [35, 41, 45, 51, 55, 61]**     
      
    ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor*-beta0.2Kinv-Blocks50000-Passes100-System2HF-ParticleA*-e0vsbeads-BROKENPATH~ 
      
