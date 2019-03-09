@@ -195,13 +195,19 @@ R    = 10.05 Angstrom
      
    - [x] N = 2, g = [0.5+i*0.1 for i in range(76)] :+1:         **In Graham**
    
-   ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-beta0.2Kinv-Blocks20000-Passes100-System2HF-ParticleA1-e0vsbeads-BROKENPATH~ 
+   ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor*-beta0.2Kinv-Blocks20000-Passes100-System2HF-ParticleA*-e0vsbeads-BROKENPATH~ 
      
    Analysis complete: Skipped data first 0, 10000 and 15000
    
-   - [x] N = 2, g = [9.0+i*1.0 for i in range(42)] :+1:         **Running in Graham**     
+   - [ ] N = 2, g = [9.0+i*1.0 for i in range(12)] :+1:         **Running in Graham for P = [45, 51, 55, 61]**     
      
-   ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-beta0.2Kinv-Blocks20000-Passes100-System2HF-ParticleA1-e0vsbeads-BROKENPATH~ 
+   ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor*-beta0.2Kinv-Blocks50000-Passes100-System2HF-ParticleA*-e0vsbeads-BROKENPATH~ 
+     
+   Analysis incomplete: Skipped data first 0, 10000, 15000
+   
+   - [ ] N = 2, g = [21.0+i*1.0 for i in range(10)] :+1:         **Running in Graham for P = [45, 51, 55, 61]**     
+     
+   ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor*-beta0.2Kinv-Blocks50000-Passes100-System2HF-ParticleA*-e0vsbeads-BROKENPATH~ 
      
    Analysis incomplete: Skipped data first 0, 10000, 15000
    
@@ -217,7 +223,7 @@ R    = 10.05 Angstrom
      
    Analysis complete: Skipped data first 0, 30000 and 40000
    
-    - [x] N = 4, g = [3.5+i*0.25 for i in range(11)] :+1:         **Running in Graham**   
+    - [ ] N = 4, g = [3.5+i*0.25 for i in range(11)] :+1:         **Running in Graham**   
      
    ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor*-beta0.2Kinv-Blocks50000-Passes100-System4HF-ParticleA2-e0vsbeads-BROKENPATH~ 
      
@@ -251,7 +257,7 @@ R    = 10.05 Angstrom
      
    Analysis complete: Skipped data first 0, 20000
    
-   - [x] N = 4, g = [3.5+i*0.25 for i in range(11)] :+1: **Running in Graham for P = [55, 61]**
+   - [ ] N = 4, g = [3.5+i*0.25 for i in range(11)] :+1: **Running in Graham for P = [55, 61]**
      
    ~/scratch/tapas/test-no-ratio-trick/ENT-NoRatio-Trick-RotDOFs-Rpt10.05Angstrom-gFactor3.5-beta0.2Kinv-Blocks30000-Passes100-System4HF-ParticleA2-e0vsbeads-SWAPTOUNSWAPPIMC/~
      
@@ -263,11 +269,11 @@ R    = 10.05 Angstrom
    P    = [5, 11, 15, 21, 25, 31, 35, 41, 45, 51, 55, 61]  
    ```
      
-   - [x] N = 8, g = [0.5+i*0.1 for i in range(16)] :+1: **Running in Graham for P = [35, 45, 55]**
+   - [ ] N = 8, g = [0.5+i*0.1 for i in range(16)] :+1: **Running in Graham for P = [35, 45, 55]**
      
    ~/scratch/tapas/test-no-ratio-trick/ENT-NoRatio-Trick-RotDOFs-Rpt10.05Angstrom-gFactor2.0-beta0.2Kinv-Blocks50000-Passes100-System8HF-ParticleA4-e0vsbeads-SWAPTOUNSWAPPIMC/~
      
-   Analysis complete: Skipped data first 0, 30000
+   Analysis incomplete: Skipped data first 0, 30000
    
    _The list of beads P is_
      
