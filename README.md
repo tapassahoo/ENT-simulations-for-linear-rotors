@@ -263,7 +263,7 @@ R    = 10.05 Angstrom
    P    = [5, 11, 15, 21, 25, 31, 35, 41, 45, 51, 55, 61]  
    ```
      
-   - [x] N = 8, g = [0.5+i*0.1 for i in range(16)] :+1: **In Graham**
+   - [x] N = 8, g = [0.5+i*0.1 for i in range(16)] :+1: **Running in Graham for P = [35, 45, 55]**
      
    ~/scratch/tapas/test-no-ratio-trick/ENT-NoRatio-Trick-RotDOFs-Rpt10.05Angstrom-gFactor2.0-beta0.2Kinv-Blocks50000-Passes100-System8HF-ParticleA4-e0vsbeads-SWAPTOUNSWAPPIMC/~
      
