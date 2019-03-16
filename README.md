@@ -133,9 +133,15 @@ R    = 10.05 Angstrom
    P    = [5, 11, 21, 31, 41, 51, 61]  
    ```
           
-   - [x] N = 8, g = [0.5+i*0.1 for i in range(16)] :+1:         **Need to submit**
+   - [x] N = 8, g = [0.5+i*0.1 for i in range(16)] :+1:         **In Graham**
      
-   ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor1.0-beta0.2Kinv-Blocks20000-Passes100-System8HF-ParticleA1-e0vsbeads-SWAPTOUNSWAP~ 
+   ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor*-beta0.2Kinv-Blocks20000-Passes100-System8HF-ParticleA*-e0vsbeads-SWAPTOUNSWAP~ 
+     
+   Analysis complete: Skipped data first 0, 10000, 15000
+   
+   - [ ] N = 8, g = [2.1+i*0.1 for i in range(10)] :+1:         **Running in Graham**
+     
+   ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor*-beta0.2Kinv-Blocks20000-Passes100-System8HF-ParticleA*-e0vsbeads-SWAPTOUNSWAP~ 
      
    Analysis incomplete: Skipped data first 0, 10000, 15000
    
