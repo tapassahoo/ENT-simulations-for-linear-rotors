@@ -211,13 +211,13 @@ R    = 10.05 Angstrom
      
    - [x] N = 2, g = [0.5+i*0.1 for i in range(76)] :+1:         **In Graham**
    
-   ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor*-beta0.2Kinv-Blocks20000-Passes100-System2HF-ParticleA*-e0vsbeads-BROKENPATH~ 
+   ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor*-beta0.2Kinv-Blocks20000-Passes100-System2HF-ParticleA1-e0vsbeads-BROKENPATH~ 
      
    Analysis complete: Skipped data first 0, 10000 and 15000
    
    - [x] N = 2, g = [9.0+i*1.0 for i in range(12)] :+1:         **In Graham**     
      
-   ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor*-beta0.2Kinv-Blocks50000-Passes100-System2HF-ParticleA*-e0vsbeads-BROKENPATH~ 
+   ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor*-beta0.2Kinv-Blocks50000-Passes100-System2HF-ParticleA1-e0vsbeads-BROKENPATH~ 
      
    Analysis incomplete: Skipped data first 0, 30000, 40000, 45000
    
@@ -242,6 +242,12 @@ R    = 10.05 Angstrom
    - [ ] N = 4, g = [3.5+i*0.25 for i in range(11)] :+1:         **Running in Graham for P = [45, 51, 55, 61]**   
      
    ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor*-beta0.2Kinv-Blocks50000-Passes100-System4HF-ParticleA2-e0vsbeads-BROKENPATH~ 
+     
+   Analysis incomplete: Skipped data first 0, 30000 and 40000
+   
+   - [ ] N = 4, g = [3.5+i*0.25 for i in range(11)] :+1:         **Running in Graham for P = [45, 51, 55, 61]**   
+     
+   ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor*-beta0.2Kinv-Blocks50000-Passes200-System4HF-ParticleA2-e0vsbeads-BROKENPATH~ 
      
    Analysis incomplete: Skipped data first 0, 30000 and 40000
    
