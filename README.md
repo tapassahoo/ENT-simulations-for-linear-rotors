@@ -121,11 +121,11 @@ R    = 10.05 Angstrom
      
    Analysis complete: Skipped data first 0, 10000, 15000
    
-   - [ ] N = 4, g = [3.5+i*0.25 for i in range(11)] :+1:         **Running in Graham for P = [45, 51, 55, 61]**
+   - [x] N = 4, g = [3.5+i*0.25 for i in range(11)] :+1:         **In Graham**
      
    ~/scratch/tapas/test-ratio-trick/ENT-RotDOFs-Rpt10.05Angstrom-gFactor*-beta0.2Kinv-Blocks50000-Passes200-System4HF-ParticleA*-e0vsbeads-SWAPTOUNSWAP~ 
      
-   Analysis incomplete: Skipped data first 0, 30000, 40000, 45000
+   Analysis complete: Skipped data first 0, 30000, 40000, 45000
    
    _The list of beads P is_
      
